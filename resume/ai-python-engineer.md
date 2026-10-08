@@ -1,4 +1,4 @@
-# WANG LIN
+# WANG FULIN
 
 **AI / Python Software Engineer | Backend · LLM · Financial Data**
 
