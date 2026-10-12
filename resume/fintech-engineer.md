@@ -81,13 +81,14 @@ Led backend implementation and important module design for DMA-related and finan
 - Used Java as the primary implementation technology.
 
 ### PB Institutional Trading System
-**Backend Engineer | Java · Spring · SQL · MySQL · REST APIs**
+**Backend Engineer | Pre-trade and Post-trade Controls · Java · Spring · SQL · MySQL · REST APIs**
 
-Led backend development and iterative enhancement for a PB institutional trading system, covering multi-account trading workflows, order instruction processing, cash and position queries, account/product data handling, and integration with trading gateways and internal systems.
+Led development of PB control modules for institutional trading, covering order validation before execution and portfolio monitoring after execution.
 
-- Designed and implemented backend modules based on institutional trading workflows and account/product relationships.
-- Handled order-status transitions, business-data validation, and cross-module data consistency.
-- Investigated interface exceptions and data issues, and supported follow-up processing, integration testing, releases, and production troubleshooting.
+- **Pre-trade indicators:** single-stock concentration, industry concentration, maximum position per security, maximum order value, maximum order quantity, order-price deviation, price-limit validation, permitted-security checks, available cash/buying power, and account exposure/leverage limits.
+- **Post-trade indicators:** single-stock concentration, industry exposure, total position ratio, cash ratio, market-value exposure per security, unrealized-loss threshold, account daily-loss threshold, portfolio drawdown, holding liquidity/estimated liquidation period, and limit-breach monitoring.
+- Converted account, product, order, execution, and position data into backend validation and monitoring logic.
+- Integrated with trading gateways and internal systems; handled data checks, SQL troubleshooting, testing, release validation, and production issue resolution.
 
 ### Asset Management System Development
 **Backend Engineer | Java · Spring · SQL · MySQL · REST APIs**
