@@ -97,15 +97,14 @@ Led development of pre-trade and post-trade risk-control modules for a PB instit
 - Integrated with trading gateways and internal systems, investigated interface and data-consistency issues, and led SQL troubleshooting, integration testing, release validation, and production issue resolution.
 
 ### Asset Management System Development
-**Backend Engineer | Java · Spring · SQL · MySQL · REST APIs**
+**Backend Engineer | Investment Trading, Portfolio & Position Management | Java · Spring · SQL · MySQL · REST APIs**
 
-Led the development and ongoing enhancement of securities asset-management-related systems, focusing on business functionality, data processing, service interfaces, and integration with related internal systems.
+Led development and iterative enhancement of asset-management modules focused on investment trading, portfolio management, and position management.
 
-- Led requirements analysis, technical design, and backend module development.
-- Implemented business logic, data processing, and service interfaces using Java and Spring.
-- Led system integration and investigated issues involving data exchange and business workflow handoffs.
-- Led troubleshooting of SQL queries, API issues, and production defects, and verified fixes.
-- Led functional testing, cross-system integration, release validation, and ongoing system maintenance.
+- Led requirements analysis, technical design, and backend development for investment-trading and portfolio-management workflows.
+- Implemented business logic, data processing, and service APIs supporting investment transactions, portfolio information, and position data.
+- Handled business-data validation and cross-system integration, investigating data exchange issues and consistency across trading, portfolio, and position records.
+- Led SQL and production troubleshooting, functional and integration testing, release validation, and ongoing system maintenance.
 
 ### Institutional Business Online System
 **Full-Stack Engineer | Java · Spring · Vue.js · JavaScript · SQL · MySQL · REST APIs**
