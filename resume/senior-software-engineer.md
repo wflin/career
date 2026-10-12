@@ -23,7 +23,7 @@ Currently expanding practical experience in Python, AI/LLM applications, financi
 - Performance and stability troubleshooting
 - System integration and legacy modernization
 - Data processing and automation
-- Git / GitHub / Linux / Docker
+- Git / GitHub
 
 ### Languages & Frameworks
 - Java / Spring / Spring Boot
@@ -59,28 +59,26 @@ Currently expanding practical experience in Python, AI/LLM applications, financi
 ### East Money Securities — Backend / Server-side Software Engineer
 **Shanghai, China | Mar 2016 – May 2026**
 
-Worked on server-side software development for securities-related systems.
+Worked on backend/server-side development, important module design, technical solutions, and ongoing maintenance for securities-related systems.
 
-Key areas included:
-- Backend services and business logic for securities applications
-- Financial transaction-related processing and system integration
-- ETF and corporate-action related business processing
-- Clearing and reconciliation
-- Portfolio-related services
-- Production troubleshooting, maintenance, and system stability
-- Collaboration across business, development, and operational teams
+Key contributions:
+- Translated securities business requirements and rule changes into backend processing logic and system functions.
+- Designed important modules and contributed to technical solutions, service interfaces, and cross-system integration.
+- Worked on DMA-related processing, ETF split/merger workflows, corporate actions, dividend allocation, clearing and reconciliation, and portfolio-related services.
+- Addressed data consistency and validation across related business-processing stages.
+- Investigated production incidents and performance issues, and participated in code reviews and ongoing system improvements.
+- Delivered iterative changes in collaboration with business and technical stakeholders.
 
 ### DMA / Corporate Actions & Clearing Project
 **Backend Engineer | Jul 2020 – Dec 2022**
 
-Worked on backend development for DMA-related and financial processing functions, including:
-- Rights and bonus processing
-- ETF split / merger related processing
-- Dividend allocation
-- Clearing reconciliation
-- Integration with trading-related services
-- Long / short portfolio-related processing
-- Pre- and post-processing controls
+Worked on backend development and important module design for DMA-related and supporting financial processing, including ETF split/merger, corporate actions, dividend allocation, clearing and reconciliation, portfolio-related processing, and trading-service integration.
+
+- Developed and iterated **five major versions** of the system.
+- Each version was driven by changes to applicable business rules and regulatory requirements; analyzed the required changes and updated relevant processing logic and system functions.
+- Worked in an evolving business environment where mature, directly reusable system patterns were limited, requiring business workflows to be clarified and translated into implementable backend processes.
+- Designed important modules and technical solutions, and contributed to service integration, data consistency checks, and pre-/post-processing validation.
+- Supported rights issue and bonus processing, ETF split/merger processing, dividend allocation, clearing/reconciliation, and long/short portfolio-related workflows.
 
 Primary technology: Java and related backend technologies.
 
@@ -108,25 +106,28 @@ Software development and maintenance for GPS / real-estate related applications.
 ### Financial & ETF Quantitative Research Platform
 **Python · FastAPI · MySQL · Streamlit · Financial Data**
 
-A research-oriented platform for A-share ETF and sector analysis, including ETF classification, representative ETF selection, historical data processing, watchlists, sector analysis, signal validation, and research dashboards.
+An independent research platform for A-share ETFs and sector analysis, designed to organize ETF classification, historical data, sector research, watchlists, signal validation, and dashboards into a reusable workflow.
 
-The project emphasizes reproducible research and avoiding future-data leakage.
+- Organized 948 ETFs into 14 top-level categories, 63 secondary categories, and 156 tertiary themes.
+- Built a representative ETF candidate pool using factors including fund size and liquidity.
+- Developed data-processing, watchlist, sector-analysis, signal-validation, and dashboard components.
+- Emphasized reproducibility and checks against look-ahead bias in historical research.
 
 ### AI-Powered Financial Research Platform
 **Python · FastAPI · LLM · RAG · Financial Data**
 
-An experimental platform focused on applying AI/RAG techniques to financial research and structured financial information.
+An independent project exploring the use of LLM and RAG workflows for financial research, with an initial focus on financial documents such as annual reports, information retrieval, and structured financial knowledge. The project remains under active development and scenario validation.
 
 ### AI Product / SaaS Experiments
 **Next.js · AI APIs · GitHub**
 
-Building and validating small AI-powered product ideas, including product design, implementation, testing, deployment, and iteration.
+Building small AI-powered product prototypes with Next.js and related web technologies. Work includes requirements breakdown, MVP scope control, implementation, GitHub-based iteration, build/deployment validation, and product experimentation.
 
 ## Education
 
-- **Northeastern University of Finance and Economics (东北财经大学)** — Bachelor's Degree, Finance
-- **Shanghai Business School (上海商学院)** — Business Administration
-- **Three Gorges University (三峡大学)** — Diploma, Mechanical & Electrical Technology Applications
+- **Dongbei University of Finance and Economics (东北财经大学)** — Bachelor's Degree in Finance
+- **Shanghai Business School (上海商学院)** — Undergraduate studies in Business Administration; no degree awarded
+- **Three Gorges University (三峡大学)** — Mechanical and Electrical Technology Applications
 
 ## Certification
 
