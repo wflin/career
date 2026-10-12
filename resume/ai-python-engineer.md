@@ -16,7 +16,9 @@ Brings strong experience in translating complex business rules into services, in
 - **AI application practice:** LLM application experiments, RAG workflows, financial-document retrieval, AI-assisted development
 - **Financial data:** A-share ETF classification and research, historical data processing, sector analysis, signal validation
 - **Software engineering:** Java, Spring, Spring Boot, REST APIs, system integration, debugging, testing, release validation
-- **Middleware & distributed systems:** Kafka messaging/event streaming, Redis caching and data structures, distributed-system fundamentals, consistency, idempotency, retry/recovery patterns, Raft consensus concepts
+- **Production middleware:** Kafka and Redis (production use)
+- **Distributed systems & reliability:** Data consistency, idempotency, retry/recovery patterns, asynchronous processing, concurrency fundamentals
+- **Personal practice / concepts:** RabbitMQ/RocketMQ (personal-project practice); Raft consensus algorithm (implementation practice)
 - **Architecture & reliability:** Microservices, asynchronous processing, concurrency fundamentals, API integration, performance troubleshooting, logging/monitoring, Git/GitHub
 - **Frontend:** JavaScript, TypeScript, Vue.js, Next.js
 - **Domain experience:** Securities trading, DMA-related processing, corporate actions, ETF operations, clearing/reconciliation, investment trading and portfolio/position management
@@ -26,7 +28,7 @@ Brings strong experience in translating complex business rules into services, in
 ### East Money Securities — Senior Software Engineer (Backend & Full-Stack)
 **Shanghai, China | Mar 2016 – May 2026**
 
-Led backend development and key-module delivery for securities-related systems. The long-term production stack was primarily Java/Spring; Python and AI/LLM work is represented separately under independent projects. Personally developed Vue.js frontend features as well as Java/Spring backend functionality for an institutional business online system.
+Led backend development and key-module delivery for securities-related systems. Kafka and Redis have both been used in production systems; exact project-level mappings are not specified without confirmed module details. The long-term production stack was primarily Java/Spring; Python and AI/LLM work is represented separately under independent projects. Personally developed Vue.js frontend features as well as Java/Spring backend functionality for an institutional business online system.
 
 - Translated complex and changing business rules into backend workflows and system functions.
 - Designed key modules, integrated APIs and internal systems, and addressed data consistency issues.
@@ -52,7 +54,7 @@ Led development of backend modules for pre-trade and post-trade controls in an i
 ### Asset Management System
 **Project Lead / Backend Engineering | Investment Trading, Portfolio & Position Management**
 
-Led backend modules supporting investment trading, portfolio management, and position management, including requirements analysis, technical design, data processing, service APIs, integration, testing, and production troubleshooting.
+Led backend modules supporting investment trading, portfolio management, and position management, including requirements analysis, technical design, data processing, service APIs, integration, testing, and production troubleshooting. Used Docker in this system.
 
 ### Institutional Business Online System
 **Project Lead / Full-Stack Engineering | Vue.js · Java · Spring · SQL · MySQL**
