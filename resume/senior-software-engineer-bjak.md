@@ -15,6 +15,7 @@ Led development across DMA-related financial processing, PB institutional tradin
 - **Backend:** Java, Spring, Spring Boot, REST APIs, key-module design, integration, debugging, production support
 - **Data:** SQL, MySQL, data validation, reconciliation, batch processing
 - **Middleware & distributed systems:** Kafka messaging/event streaming, Redis caching and data structures, distributed consistency, idempotency, retry/recovery patterns, Raft consensus concepts
+- **Architecture & reliability:** Microservices, asynchronous processing, concurrency fundamentals, API integration, performance troubleshooting, logging/monitoring, Git/GitHub
 - **Full-stack:** Vue.js, JavaScript, TypeScript, Next.js
 - **Additional project work:** Python, FastAPI, financial-data tooling, LLM/RAG application experiments
 - **Domain:** Securities trading, DMA-related processing, corporate actions, ETF operations, clearing/reconciliation, investment trading, portfolio and position management
