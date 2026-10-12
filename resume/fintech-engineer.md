@@ -27,7 +27,7 @@ Led development of DMA-related financial processing, PB institutional trading co
 ### East Money Securities — Senior Software Engineer (Backend & Full-Stack)
 **Shanghai, China | Mar 2016 – May 2026**
 
-Led development and iterative delivery of securities-related systems, including backend services, key-module design, system integration, and production support. Kafka and Redis have both been used in production systems; they are not attributed to a specific project without confirmed module-level details. Personally developed Vue.js frontend features and Java/Spring backend functionality for an institutional business online system.
+Led development and iterative delivery of securities-related systems, including backend services, key-module design, system integration, and production support. Personally developed Vue.js frontend features and Java/Spring backend functionality for an institutional business online system.
 
 - Translated evolving securities-business rules into backend workflows and system functionality.
 - Designed key modules and technical solutions; handled APIs, cross-system integration, and data consistency.
