@@ -72,8 +72,10 @@ Seeking international remote opportunities in Python backend engineering, AI app
 Worked on backend/server-side development, important module design, and technical solutions for securities-related applications and business services.
 
 - Translated business requirements and changing business rules into backend processing logic and system functions.
-- Worked on DMA-related processing, ETF split/merger, corporate actions, dividend allocation, clearing/reconciliation, and portfolio-related services.
-- Contributed to service interfaces, cross-system integration, data consistency checks, and pre-/post-processing validation.
+- Worked on DMA-related processing and complex corporate actions, including cash dividends, rights issues, conversion, bonus shares, and ETF splits/mergers.
+- Supported funding-account-to-DMA-contract-account processing and end-of-day reconciliation of cash balances and securities positions between DMA contract accounts and centralized trading funding accounts.
+- Investigated reconciliation discrepancies and worked on corporate-action effective dates, processing sequence, duplicate/abnormal data validation, cross-system interface issues, and follow-up processing.
+- Participated in SQL/batch-processing and end-of-day job performance troubleshooting, release validation, production issue resolution, and business/technical integration testing.
 - Investigated production incidents and performance issues, participated in code reviews, and maintained business-critical services.
 
 ### DMA / Corporate Actions & Clearing Project
@@ -81,10 +83,12 @@ Worked on backend/server-side development, important module design, and technica
 
 Worked on backend development and important module design for financial processing and DMA-related functions.
 
-- Developed and iterated five major versions, with each version driven by changes to applicable business rules and regulatory requirements.
-- Analyzed rule changes and updated the related processing logic and system functions.
-- Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating business workflows into implementable backend processes.
-- Worked on rights issue and bonus distribution, ETF split/merger, dividend allocation, clearing/reconciliation, portfolio-related processing, and pre-/post-processing validation.
+- Developed and iterated five major versions, adapting processing logic as business rules and applicable regulatory requirements changed.
+- Analyzed rule changes and updated related system functions; public regulatory milestones provide industry context but are not a confirmed mapping to internal version dates.
+- Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating complex account flows into implementable backend processes.
+- Supported rapid growth in DMA business and system usage from early 2022 through ongoing functional iterations and operational issue resolution.
+- Worked on cash dividends, rights issues, conversion and bonus-share processing, ETF splits/mergers, clearing/reconciliation, portfolio-related processing, and pre-/post-processing validation.
+- Reconciled end-of-day cash and securities positions between DMA contract accounts and centralized trading funding accounts, investigating discrepancies and supporting follow-up processing.
 - Used Java as the primary implementation technology.
 
 ### Kingstar (金仕达) — Software Engineer, Financial Trading Systems
