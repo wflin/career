@@ -69,9 +69,9 @@ Key contributions:
 ### DMA / Corporate Actions & Clearing Project
 **Backend Engineer | Jul 2020 – May 2025**
 
-Focused on backend implementation and important module design for DMA-related and financial processing functions.
+Led backend implementation and important module design for DMA-related and financial processing functions.
 
-- Developed and iterated five major versions, adapting processing logic as business rules and applicable regulatory requirements changed.
+- Led development and iteration of five major versions, adapting processing logic as business rules and applicable regulatory requirements changed.
 - Analyzed rule changes and updated related system functionality; public regulatory milestones provide industry context but are not a confirmed mapping to internal version dates.
 - Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating complex account flows into implementable backend processes.
 - Supported rapid growth in DMA business and system usage from early 2022 through ongoing functional iterations and operational issue resolution.
