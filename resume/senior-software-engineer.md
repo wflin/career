@@ -74,9 +74,9 @@ Key contributions:
 ### DMA / Corporate Actions & Clearing Project
 **Backend Engineer | Jul 2020 – May 2025**
 
-Worked on backend development and important module design for DMA-related and supporting financial processing, including ETF split/merger, corporate actions, dividend allocation, clearing and reconciliation, portfolio-related processing, and trading-service integration.
+Led backend development and important module design for DMA-related and supporting financial processing, including ETF split/merger, corporate actions, dividend allocation, clearing and reconciliation, portfolio-related processing, and trading-service integration.
 
-- Developed and iterated **five major versions** of the system, adapting backend workflows as business rules and applicable regulatory requirements changed.
+- Led development and iteration of **five major versions** of the system, adapting backend workflows as business rules and applicable regulatory requirements changed.
 - Analyzed change impact and updated relevant processing logic and system functions; public regulatory milestones provide industry context but are not a confirmed mapping to internal version dates.
 - Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating complex account flows and business workflows into implementable backend processes.
 - Supported rapid growth in DMA business and system usage from early 2022 through ongoing functional iterations and operational issue resolution.
