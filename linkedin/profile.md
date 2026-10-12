@@ -34,13 +34,13 @@ Backend Engineering · Software Architecture · Java · Spring · Spring Boot ·
 Backend / Server-side Software Engineer
 Shanghai, China · Mar 2016 – May 2026
 
-Focused on backend/server-side development for securities and financial systems, including financial business processing, service integration, data processing, system stability, and production troubleshooting.
+Focused on backend/server-side development, important module design, and technical solutions for securities and financial systems. Work included DMA-related processing, ETF split/merger, corporate actions, dividend allocation, clearing/reconciliation, service integration, data consistency, and production troubleshooting.
 
 ### DMA / Corporate Actions & Clearing Project
 Backend Engineer
 Jul 2020 – Dec 2022
 
-Worked on financial processing related to corporate actions, ETF split/merger, rights and bonus processing, dividend allocation, clearing and reconciliation, portfolio-related processing, and pre/post processing controls.
+Worked on financial processing related to corporate actions, ETF split/merger, rights and bonus processing, dividend allocation, clearing/reconciliation, portfolio-related processing, and pre-/post-processing controls. Developed and iterated five major versions, with each iteration driven by changes to applicable business rules and regulatory requirements.
 
 ### Kingstar (金仕达)
 Software Engineer — Financial Trading Systems
@@ -53,14 +53,14 @@ Worked on central trading and margin financing related systems in financial tech
 ### Financial & ETF Quantitative Research Platform
 Python · FastAPI · MySQL · Streamlit · Financial Data
 
-A research-oriented platform for ETF/sector analysis, financial data processing, signal validation, watchlists, and quantitative research workflows.
+An independent research platform for A-share ETFs and sector analysis. Organized 948 ETFs into 14 top-level categories, 63 secondary categories, and 156 tertiary themes; includes representative ETF selection, historical data processing, watchlists, signal validation, and workflows designed to avoid look-ahead bias.
 
 ### AI-Powered Financial Research Platform
 Python · FastAPI · LLM · RAG · Financial Data
 
-An AI-oriented research platform combining financial documents/data with LLM and RAG workflows.
+An independent project exploring LLM/RAG workflows for financial research, initially focusing on annual reports and other financial documents, information retrieval, and structured financial knowledge.
 
 ### AI Product / SaaS Experiments
 Next.js · AI APIs · GitHub
 
-Independent experiments focused on turning AI capabilities into practical software products and online services.
+Independent experiments using Next.js and related web technologies to validate small AI product ideas through requirements breakdown, MVP implementation, GitHub-based iteration, and build/deployment validation.
