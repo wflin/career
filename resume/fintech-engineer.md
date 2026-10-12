@@ -39,7 +39,7 @@ Seeking international remote opportunities in FinTech, brokerage technology, tra
 - Performance and stability analysis
 - Legacy system modernization
 - Data processing and automation
-- Git / GitHub / Linux / Docker
+- Git / GitHub
 
 ### Technology
 - Java / Spring / Spring Boot
@@ -55,29 +55,25 @@ Seeking international remote opportunities in FinTech, brokerage technology, tra
 ### East Money Securities — Backend / Server-side Software Engineer
 **Shanghai, China | Mar 2016 – May 2026**
 
-Worked on server-side development and maintenance for securities-related applications and business services.
+Worked on backend/server-side development, important module design, and technical solutions for securities-related applications and business services.
 
-Key areas of contribution:
-- Developed backend business logic for securities applications.
-- Implemented and maintained financial processing services and system integrations.
-- Worked on ETF-related processing and corporate-action workflows.
-- Supported clearing and reconciliation processes.
-- Supported portfolio-related business functions and service integrations.
-- Investigated production issues and supported system stability and maintenance.
-- Collaborated with business, development, and operational teams on financial software delivery and support.
+Key contributions:
+- Translated business rules and regulatory/business-rule changes into backend processing logic and system functions.
+- Designed important modules and contributed to technical solutions, service interfaces, and cross-system integration.
+- Worked on DMA-related processing, ETF split/merger workflows, corporate actions, dividend allocation, clearing/reconciliation, and portfolio-related services.
+- Addressed data consistency and validation across financial processing stages.
+- Investigated production issues and performance problems, participated in code reviews, and maintained business-critical services.
 
 ### DMA / Corporate Actions & Clearing Project
 **Backend Engineer | Jul 2020 – Dec 2022**
 
-Focused on backend implementation for DMA-related and financial processing functions.
+Focused on backend implementation and important module design for DMA-related and financial processing functions.
 
-- Implemented rights issue and bonus distribution processing.
-- Developed ETF split / merger related processing.
-- Implemented dividend allocation and related financial processing.
-- Supported clearing reconciliation and data consistency checks.
-- Integrated financial processing with trading-related services.
-- Worked on long / short portfolio-related processing.
-- Implemented pre- and post-processing controls around financial workflows.
+- Developed and iterated five major versions, with each version driven by changes to applicable business rules and regulatory requirements.
+- Analyzed rule changes and updated corresponding processing logic and system functionality.
+- Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating business workflows into implementable backend processes.
+- Worked on rights issue and bonus distribution, ETF split/merger, dividend allocation, clearing/reconciliation, portfolio-related processing, and trading-service integration.
+- Contributed to data consistency checks and pre-/post-processing validation.
 - Used Java as the primary implementation technology.
 
 ### Kingstar (金仕达) — Software Engineer, Financial Trading Systems
@@ -113,24 +109,21 @@ Backend work covering corporate actions, ETF processing, dividend allocation, cl
 
 Independent research platform for A-share ETF and sector analysis.
 
-- ETF classification and industry/topic organization
-- Representative ETF selection
-- Historical financial data processing
-- Watchlists and research dashboards
-- Sector and ETF analysis
-- Signal validation
-- Research workflows designed to avoid future-data leakage
+- Organized 948 ETFs into 14 top-level categories, 63 secondary categories, and 156 tertiary themes.
+- Built a representative ETF candidate pool using factors including fund size and liquidity.
+- Developed historical data processing, watchlists, sector analysis, signal validation, and dashboard workflows.
+- Emphasized reproducible research and checks against look-ahead bias.
 
 ### AI-Powered Financial Research Platform
 **Python · FastAPI · LLM · RAG**
 
-Independent project exploring AI-assisted financial research, structured financial information, and RAG-based knowledge applications.
+Independent project exploring LLM/RAG applications for financial research, initially focusing on annual reports and other financial documents, information retrieval, and structured financial knowledge. The project remains under development and scenario validation.
 
 ## Education
 
-- **Northeastern University of Finance and Economics (东北财经大学)** — Bachelor's Degree, Finance
-- **Shanghai Business School (上海商学院)** — Business Administration
-- **Three Gorges University (三峡大学)** — Diploma, Mechanical & Electrical Technology Applications
+- **Dongbei University of Finance and Economics (东北财经大学)** — Bachelor's Degree in Finance
+- **Shanghai Business School (上海商学院)** — Undergraduate studies in Business Administration; no degree awarded
+- **Three Gorges University (三峡大学)** — Mechanical and Electrical Technology Applications
 
 ## Certification
 
