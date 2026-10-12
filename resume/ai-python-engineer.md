@@ -79,7 +79,7 @@ Worked on backend/server-side development, important module design, and technica
 - Investigated production incidents and performance issues, participated in code reviews, and maintained business-critical services.
 
 ### DMA / Corporate Actions & Clearing Project
-**Backend Engineer | Jul 2020 – Dec 2022**
+**Backend Engineer | Jul 2020 – May 2025**
 
 Worked on backend development and important module design for financial processing and DMA-related functions.
 
