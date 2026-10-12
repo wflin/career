@@ -87,14 +87,14 @@ Led backend development and important module design for DMA-related and supporti
 Primary technology: Java and related backend technologies.
 
 ### PB Institutional Trading System
-**Backend Development / Core Module Design | Java · Spring · SQL · MySQL · REST APIs**
+**Backend Development / Pre-trade & Post-trade Risk Controls | Java · Spring · SQL · MySQL · REST APIs**
 
-Led backend module development and iterative enhancement for a PB institutional trading system serving institutional investment workflows, covering multi-account trading, order instruction processing, cash and position queries, workflow integration, and interfaces with related systems.
+Led development of pre-trade and post-trade risk-control modules for a PB institutional trading system, implementing rule checks and monitoring around account trading constraints, position concentration, cash utilization, portfolio exposure, and risk-limit breaches.
 
-- Analyzed institutional trading workflows and relationships among products, accounts, orders, and transaction data; designed and implemented backend business modules.
-- Implemented order instruction handling and order-status transitions, account/product data queries, and business-data validation, with attention to cross-module data consistency.
-- Integrated services with trading gateways and internal business systems, investigated interface exceptions, and handled follow-up processing to support stable trading workflows.
-- Led SQL troubleshooting, integration testing, release validation, and production issue investigation as the system evolved.
+- **Pre-trade controls:** single-stock concentration; industry concentration; maximum position per security; maximum order value; maximum order quantity; order-price deviation; price-limit validation; eligible-security and investment-universe checks; available-cash and buying-power validation; account-level gross exposure/leverage limits.
+- **Post-trade monitoring:** single-stock position concentration; industry exposure concentration; total portfolio position ratio; cash ratio; market-value exposure per security; single-stock unrealized-loss threshold; account intraday-loss threshold; portfolio drawdown; holding liquidity/estimated liquidation period; post-trade risk-limit breach monitoring.
+- Translated account, product, order, execution, and position relationships into backend risk checks and monitoring logic.
+- Integrated with trading gateways and internal systems, investigated interface and data-consistency issues, and led SQL troubleshooting, integration testing, release validation, and production issue resolution.
 
 ### Asset Management System Development
 **Backend Engineer | Java · Spring · SQL · MySQL · REST APIs**
