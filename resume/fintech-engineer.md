@@ -15,6 +15,7 @@ Led development of DMA-related financial processing, PB institutional trading co
 - **Financial systems:** Securities trading, brokerage technology, central trading, margin financing, DMA-related processing, corporate actions, ETF splits/mergers, clearing and reconciliation, investment trading, portfolio and position management
 - **Backend engineering:** Java, Spring, Spring Boot, REST APIs, key-module design, system integration, production troubleshooting, release validation
 - **Data processing:** SQL, MySQL, reconciliation, data validation, batch processing, end-of-day jobs
+- **Middleware & distributed systems:** Kafka messaging/event streaming, Redis caching and data structures, distributed consistency, idempotency, retry/recovery patterns, Raft consensus concepts
 - **Additional technologies:** Python, FastAPI, JavaScript, TypeScript, Vue.js, Next.js
 - **AI/data projects:** Financial-data analysis, ETF research tooling, LLM/RAG application experiments
 
