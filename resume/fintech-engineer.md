@@ -80,6 +80,15 @@ Led backend implementation and important module design for DMA-related and finan
 - Led data consistency checks and pre-/post-processing validation.
 - Used Java as the primary implementation technology.
 
+### PB Institutional Trading System
+**Backend Engineer | Java · Spring · SQL · MySQL · REST APIs**
+
+Led backend development and iterative enhancement for a PB institutional trading system, covering multi-account trading workflows, order instruction processing, cash and position queries, account/product data handling, and integration with trading gateways and internal systems.
+
+- Designed and implemented backend modules based on institutional trading workflows and account/product relationships.
+- Handled order-status transitions, business-data validation, and cross-module data consistency.
+- Investigated interface exceptions and data issues, and supported follow-up processing, integration testing, releases, and production troubleshooting.
+
 ### Asset Management System Development
 **Backend Engineer | Java · Spring · SQL · MySQL · REST APIs**
 
