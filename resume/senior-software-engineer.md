@@ -79,9 +79,9 @@ Led backend development and important module design for DMA-related and supporti
 - Led development and iteration of **five major versions** of the system, adapting backend workflows as business rules and applicable regulatory requirements changed.
 - Analyzed change impact and updated relevant processing logic and system functions; public regulatory milestones provide industry context but are not a confirmed mapping to internal version dates.
 - Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating complex account flows and business workflows into implementable backend processes.
-- Led ongoing system iterations and operational issue resolution as DMA business grew rapidly and system usage from early 2022 through ongoing functional iterations and operational issue resolution.
-- Designed important modules and technical solutions, and Led service integration, data consistency checks, and pre-/post-processing validation.
-- Supported cash dividends, rights issues, conversion and bonus-share processing, ETF splits/mergers, clearing/reconciliation, and long/short portfolio-related workflows.
+- Led ongoing system iterations and operational issue resolution as DMA business and system usage grew rapidly from early 2022.
+- Led important module design and technical solutions, service integration, data consistency checks, and pre-/post-processing validation.
+- Led backend processing for cash dividends, rights issues, conversion and bonus shares, ETF splits/mergers, clearing/reconciliation, and long/short portfolio-related workflows.
 - Reconciled end-of-day cash balances and securities positions between DMA contract accounts and centralized trading funding accounts; investigated discrepancies and supported follow-up processing.
 
 Primary technology: Java and related backend technologies.
@@ -105,9 +105,9 @@ Led the online delivery of institutional business workflows through frontend and
 - Led the translation of institutional business requirements into online application features and workflows.
 - Developed frontend pages and interactive features using Vue.js and JavaScript for business information display, queries, and operational workflows.
 - Developed backend modules and REST APIs using Java and Spring, implementing business logic, data access, and frontend/backend integration.
-- Worked with MySQL for data queries and processing, and integrated services with related internal platforms.
-- Performed frontend/backend integration, workflow validation, and troubleshooting for API, data consistency, and business-processing issues.
-- Supported feature iterations, integration testing, release validation, and production issue resolution.
+- Led MySQL data processing and integration with related internal platforms.
+- Led frontend/backend integration, workflow validation, and troubleshooting for API, data consistency, and business-processing issues.
+- Led feature iterations, integration testing, release validation, and production issue resolution.
 
 ### Kingstar (金仕达) — Software Engineer, Financial Trading Systems
 **Feb 2012 – Jun 2014**
