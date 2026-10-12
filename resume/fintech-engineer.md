@@ -91,15 +91,14 @@ Led development of PB control modules for institutional trading, covering order 
 - Integrated with trading gateways and internal systems; handled data checks, SQL troubleshooting, testing, release validation, and production issue resolution.
 
 ### Asset Management System Development
-**Backend Engineer | Java · Spring · SQL · MySQL · REST APIs**
+**Backend Engineer | Investment Trading, Portfolio & Position Management · Java · Spring · SQL · MySQL**
 
-Led the development and maintenance of securities asset-management-related applications, with a focus on backend business logic, data processing, service interfaces, and integration with related internal systems.
+Led backend development of asset-management modules centered on investment trading, portfolio management, and position management.
 
-- Led requirements analysis, technical solution design, and backend feature development.
-- Implemented business logic and data-processing functions using Java and Spring.
-- Led API integration and investigated data-exchange and workflow handoff issues across systems.
-- Led troubleshooting of SQL, interface, and production issues, functional testing, and release validation.
-- Owned ongoing maintenance and led implementation of iterative business changes.
+- Led requirements analysis, technical design, and implementation of investment-trading and portfolio workflows.
+- Developed backend business logic and data-processing services for investment transactions, portfolio information, and position records.
+- Handled business-data validation and cross-system integration, investigating data consistency issues across trading, portfolio, and position data.
+- Led SQL and production troubleshooting, integration testing, release validation, and iterative enhancements.
 
 ### Institutional Business Online System
 **Full-Stack Engineer | Java · Spring · Vue.js · JavaScript · SQL · MySQL · REST APIs**
