@@ -26,7 +26,7 @@ I'm open to international remote and contractor opportunities.
 
 ## Core Skills
 
-Backend Engineering · Software Architecture · Java · Spring · Spring Boot · Python · FastAPI · SQL · MySQL · JavaScript · TypeScript · Next.js · REST APIs · Financial Technology · Securities Trading · Brokerage Systems · DMA · ETF Processing · Corporate Actions · Clearing · Reconciliation · LLM · RAG · AI Applications · Financial Data Analysis · Quantitative Research · Automation · Git · GitHub · Docker · Linux
+Backend Engineering · Software Architecture · Java · Spring · Spring Boot · Python · FastAPI · SQL · MySQL · JavaScript · TypeScript · Next.js · REST APIs · Financial Technology · Securities Trading · Brokerage Systems · DMA · ETF Processing · Corporate Actions · Clearing · Reconciliation · LLM · RAG · AI Applications · Financial Data Analysis · Quantitative Research · Automation · Git · GitHub
 
 ## Experience Positioning
 
