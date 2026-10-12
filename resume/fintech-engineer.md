@@ -6,15 +6,11 @@ Shanghai, China · Open to International Remote / Contractor Opportunities
 
 ## Professional Summary
 
-FinTech-focused Software Engineer with 20+ years of software development experience, including 10+ years working on securities and brokerage technology.
+FinTech Software Engineer with 20+ years of software development experience, including 10+ years in securities and brokerage technology. Combines strong Java/Spring backend engineering with hands-on experience in financial transaction workflows, account and position processing, corporate actions, clearing/reconciliation, API integration, and production troubleshooting.
 
-Experienced in backend development and maintenance of financial systems covering central trading, margin financing, DMA-related processing, ETF operations, corporate actions, clearing and reconciliation, portfolio-related services, and financial data processing.
+Led development of key modules across DMA-related processing, PB institutional trading, asset-management workflows, and an institutional business online system. Also delivered Vue.js frontend functionality integrated with Java/Spring services. Formal finance education supports communication between business stakeholders and engineering teams.
 
-Strong Java background with practical experience in Python, FastAPI, SQL, JavaScript/TypeScript, AI-assisted development, financial data analysis, and quantitative research tooling.
-
-Combines software engineering experience with formal finance education, enabling effective communication between financial business requirements and technical implementation.
-
-Seeking international remote opportunities in FinTech, brokerage technology, trading systems, financial software, backend engineering, and related software roles. Open to full-time remote, contractor, and project-based work.
+Seeking Senior Software Engineer, Senior Backend Engineer, and FinTech roles, with additional flexibility for full-stack and Python/AI-enabled financial applications.
 
 ## Core Skills
 
@@ -72,7 +68,7 @@ Key contributions:
 Led backend implementation and important module design for DMA-related and financial processing functions.
 
 - Led development and iteration of five major versions, adapting processing logic as business rules and applicable regulatory requirements changed.
-- Analyzed rule changes and updated related system functionality; public regulatory milestones provide industry context but are not a confirmed mapping to internal version dates.
+- Analyzed rule changes, assessed impact, and updated related system functionality.
 - Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating complex account flows into implementable backend processes.
 - Supported rapid growth in DMA business and system usage from early 2022 through ongoing functional iterations and operational issue resolution.
 - Worked on cash dividends, rights issues, conversion and bonus-share processing, ETF splits/mergers, clearing/reconciliation, portfolio-related processing, and trading-service integration.
@@ -81,15 +77,14 @@ Led backend implementation and important module design for DMA-related and finan
 - Used Java as the primary implementation technology.
 
 ### PB Institutional Trading System
-**Backend Engineer | Pre-trade and Post-trade Controls · Java · Spring · SQL · MySQL · REST APIs**
+**Backend Engineer | Pre-trade Validation & Post-trade Monitoring · Java · Spring · SQL · MySQL · REST APIs**
 
-Led development of PB control modules for institutional trading, covering order validation before execution and portfolio monitoring after execution.
+Led backend development of PB institutional-trading controls covering pre-trade order validation and post-trade exposure monitoring.
 
-- **Pre-trade indicators:** single-stock concentration, industry concentration, maximum position per security, maximum order value, maximum order quantity, order-price deviation, price-limit validation, permitted-security checks, available cash/buying power, and account exposure/leverage limits.
-- **Post-trade indicators:** single-stock concentration, industry exposure, total position ratio, cash ratio, market-value exposure per security, unrealized-loss threshold, account daily-loss threshold, portfolio drawdown, holding liquidity/estimated liquidation period, and limit-breach monitoring.
-- Converted account, product, order, execution, and position data into backend validation and monitoring logic.
+- Implemented checks around order constraints, eligible securities, available cash/buying power, and account or position limits.
+- Implemented monitoring for positions, security/industry exposure, loss thresholds, and risk-limit breaches.
+- Converted account, product, order, execution, and position relationships into backend validation and monitoring logic.
 - Integrated with trading gateways and internal systems; handled data checks, SQL troubleshooting, testing, release validation, and production issue resolution.
-
 ### Asset Management System Development
 **Backend Engineer | Investment Trading, Portfolio & Position Management · Java · Spring · SQL · MySQL**
 
@@ -134,10 +129,6 @@ Participated in software development and maintenance for GPS and real-estate rel
 
 ## Selected Projects
 
-### DMA / Corporate Actions & Clearing
-**Java · Financial Processing · Clearing · Reconciliation**
-
-Backend work covering corporate actions, ETF processing, dividend allocation, clearing reconciliation, portfolio-related processing, and pre/post financial workflow controls.
 
 ### Financial & ETF Quantitative Research Platform
 **Python · FastAPI · MySQL · Streamlit**
@@ -166,13 +157,12 @@ Independent project exploring LLM/RAG applications for financial research, initi
 
 ## Target Opportunities
 
-- FinTech Software Engineer
-- Financial Software Engineer
-- Trading Systems Engineer
-- Brokerage Technology Engineer
+- Senior FinTech Software Engineer
 - Senior Backend Engineer
+- Financial Software / Trading Systems Engineer
+- Brokerage Technology Engineer
 - Senior Software Engineer
 - Python / Financial Data Engineer
 - AI Application Engineer for FinTech
 
-**Preferred engagement:** International remote · Remote contractor · Part-time / project-based
+**Preferred engagement:** International remote · Remote contractor · Part-time / project-based · Full-time remote
