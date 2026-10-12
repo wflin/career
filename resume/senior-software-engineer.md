@@ -16,7 +16,9 @@ Targeting Senior Software Engineer and Senior Backend Engineer roles, with addit
 
 - **Backend & engineering:** Java, Spring, Spring Boot, REST APIs, module design, system integration, production troubleshooting, performance analysis, data processing
 - **Data:** SQL, MySQL, reconciliation, data validation, batch processing
-- **Middleware & distributed systems:** Kafka (message/event streaming), Redis (caching and data structures), distributed-system fundamentals, consistency, idempotency, retries and recovery; Raft consensus concepts
+- **Production middleware:** Kafka (production experience), Redis (production experience)
+- **Distributed systems & reliability:** Data consistency, idempotency, retry/recovery patterns, asynchronous processing, concurrency fundamentals
+- **Personal practice / concepts:** RabbitMQ/RocketMQ (personal-project practice); Raft consensus algorithm (implementation practice)
 - **Architecture & reliability:** Microservices, asynchronous processing, concurrency fundamentals, API integration, performance troubleshooting, logging/monitoring, Git/GitHub
 - **Python & AI projects:** Python, FastAPI, financial-data tooling, LLM/RAG application experiments, AI-assisted development
 - **Frontend:** JavaScript, TypeScript, Vue.js, Next.js
@@ -27,7 +29,7 @@ Targeting Senior Software Engineer and Senior Backend Engineer roles, with addit
 ### East Money Securities — Senior Software Engineer (Backend & Full-Stack)
 **Shanghai, China | Mar 2016 – May 2026**
 
-Led development and iterative delivery for securities-related systems, including key-module design, backend services, integration, and production support. In the institutional business online system, personally developed Vue.js frontend features as well as Java/Spring backend functionality.
+Led development and iterative delivery for securities-related systems, including key-module design, backend services, integration, and production support. Used Kafka and Redis in production systems; specific middleware-to-project mappings are not assigned here without confirmed module details. In the institutional business online system, personally developed Vue.js frontend features as well as Java/Spring backend functionality.
 
 - Translated changing securities-business rules into implementable backend workflows and system functions.
 - Designed key modules and technical solutions; handled API integration, data consistency, and cross-system issue investigation.
@@ -65,11 +67,11 @@ Led development of backend modules for pre-trade and post-trade controls in an i
 
 Led development and iterative enhancement of modules supporting investment trading, portfolio management, and position management.
 
-- Led requirements analysis, technical design, and backend implementation for investment and portfolio workflows.
+- Led requirements analysis, technical design, and backend implementation for investment and portfolio workflows. Used Docker in this system's development/deployment workflow.
 - Developed business logic, data processing, and service APIs for transaction, portfolio, and position data.
 - Addressed data validation, cross-system integration, SQL and production troubleshooting, testing, and release validation.
 
-**Primary technology:** Java, Spring, SQL, MySQL, REST APIs.
+**Primary technology:** Java, Spring, SQL, MySQL, REST APIs, Docker.
 
 ### Institutional Business Online System
 **Project Lead / Full-Stack Engineering | Vue.js · Java · Spring · SQL · MySQL · REST APIs**
