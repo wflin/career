@@ -66,10 +66,10 @@ Seeking international remote opportunities in Python backend engineering, AI app
 
 ## Professional Experience
 
-### East Money Securities — Backend / Server-side Software Engineer
+### East Money Securities — Senior Software Engineer (Backend & Full-Stack)
 **Shanghai, China | Mar 2016 – May 2026**
 
-Worked on backend/server-side development, important module design, and technical solutions for securities-related applications and business services.
+Led backend development, important module design, and technical solutions for securities applications and business services. Also implemented the Vue.js frontend for an institutional business online system and integrated it with Java/Spring backend APIs.
 
 - Translated business requirements and changing business rules into backend processing logic and system functions.
 - Worked on DMA-related processing and complex corporate actions, including cash dividends, rights issues, conversion, bonus shares, and ETF splits/mergers.
