@@ -92,13 +92,14 @@ Led backend development and important module design for financial processing and
 - Used Java as the primary implementation technology.
 
 ### PB Institutional Trading System
-**Backend Engineering | Java · Spring · SQL · MySQL · REST APIs**
+**Backend Engineering | Pre-trade and Post-trade Risk Controls · Java · Spring · SQL · MySQL · REST APIs**
 
-Led backend module development for a PB institutional trading system, focusing on institutional account/product workflows, multi-account order processing, cash and position queries, data validation, and integration with trading gateways and internal services.
+Led backend development for PB risk-control modules, covering order validation before execution and portfolio monitoring after execution for institutional accounts.
 
-- Translated business workflows into backend services and API functionality.
-- Implemented order processing and status transitions, data queries, and consistency checks across related modules.
-- Supported interface integration, SQL troubleshooting, testing, release validation, and production issue investigation.
+- **Pre-trade indicators:** single-stock concentration, industry concentration, maximum position per security, order-value and order-quantity caps, order-price deviation, price-limit validation, permitted-security checks, available cash/buying power, and account exposure/leverage limits.
+- **Post-trade indicators:** single-stock concentration, industry exposure, total position ratio, cash ratio, market-value exposure per security, unrealized-loss threshold, account daily-loss threshold, portfolio drawdown, holding liquidity/estimated liquidation period, and limit-breach monitoring.
+- Turned account, product, order, execution, and position data into backend validation and monitoring logic.
+- Supported system integration, data checks, SQL troubleshooting, testing, release validation, and production issue investigation.
 
 ### Institutional Business Online System
 **Full-Stack Engineering | Vue.js · JavaScript · Java · Spring · SQL · MySQL · REST APIs**
@@ -112,14 +113,14 @@ Led the development of an online institutional business system, including hands-
 - Led testing, release validation, and production issue resolution.
 
 ### Asset Management System Development
-**Backend Engineering | Java · Spring · SQL · MySQL · REST APIs**
+**Backend Engineering | Investment Trading, Portfolio & Position Management · Java · Spring · SQL · MySQL**
 
-Led backend development and iterative maintenance for securities asset-management-related systems.
+Led backend development for asset-management modules focused on investment trading, portfolio management, and position management.
 
-- Led requirements analysis and backend module implementation.
-- Developed business logic, data-processing functions, and service interfaces using Java and Spring.
-- Supported cross-system data exchange and investigated workflow integration issues.
-- Troubleshot SQL, API, and production issues and supported functional testing and release validation.
+- Led requirements analysis and backend implementation for investment-trading and portfolio workflows.
+- Developed business logic and data-processing services for investment transactions, portfolio information, and position records.
+- Supported business-data validation and cross-system integration, investigating consistency issues across trading, portfolio, and position data.
+- Handled SQL and production troubleshooting, testing, release validation, and iterative enhancements.
 
 ### Kingstar (金仕达) — Software Engineer, Financial Trading Systems
 **Shanghai, China | Feb 2012 – Jun 2014**
