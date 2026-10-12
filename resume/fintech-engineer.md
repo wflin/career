@@ -147,7 +147,7 @@ Independent project exploring LLM/RAG applications for financial research, initi
 
 ## Education
 
-- **Dongbei University of Finance and Economics (东北财经大学)** — Bachelor's Degree in Finance
+- **Dongbei University of Finance and Economics (东北财经大学)** — Finance
 - **Shanghai Business School (上海商学院)** — Undergraduate studies in Business Administration
 - **Three Gorges University (三峡大学)** — Mechanical and Electrical Technology Applications
 
