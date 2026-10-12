@@ -67,7 +67,7 @@ Key contributions:
 - Investigated production issues and performance problems, participated in code reviews, and maintained business-critical services.
 
 ### DMA / Corporate Actions & Clearing Project
-**Backend Engineer | Jul 2020 – Dec 2022**
+**Backend Engineer | Jul 2020 – May 2025**
 
 Focused on backend implementation and important module design for DMA-related and financial processing functions.
 
