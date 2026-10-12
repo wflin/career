@@ -15,7 +15,9 @@ Led development of DMA-related financial processing, PB institutional trading co
 - **Financial systems:** Securities trading, brokerage technology, central trading, margin financing, DMA-related processing, corporate actions, ETF splits/mergers, clearing and reconciliation, investment trading, portfolio and position management
 - **Backend engineering:** Java, Spring, Spring Boot, REST APIs, key-module design, system integration, production troubleshooting, release validation
 - **Data processing:** SQL, MySQL, reconciliation, data validation, batch processing, end-of-day jobs
-- **Middleware & distributed systems:** Kafka messaging/event streaming, Redis caching and data structures, distributed consistency, idempotency, retry/recovery patterns, Raft consensus concepts
+- **Production middleware:** Kafka and Redis (production use)
+- **Distributed systems & reliability:** Data consistency, idempotency, retry/recovery patterns, asynchronous processing, concurrency fundamentals
+- **Personal practice / concepts:** RabbitMQ/RocketMQ (personal-project practice); Raft consensus algorithm (implementation practice)
 - **Architecture & reliability:** Microservices, asynchronous processing, concurrency fundamentals, API integration, performance troubleshooting, logging/monitoring, Git/GitHub
 - **Additional technologies:** Python, FastAPI, JavaScript, TypeScript, Vue.js, Next.js
 - **AI/data projects:** Financial-data analysis, ETF research tooling, LLM/RAG application experiments
@@ -25,7 +27,7 @@ Led development of DMA-related financial processing, PB institutional trading co
 ### East Money Securities — Senior Software Engineer (Backend & Full-Stack)
 **Shanghai, China | Mar 2016 – May 2026**
 
-Led development and iterative delivery of securities-related systems, including backend services, key-module design, system integration, and production support. Personally developed Vue.js frontend features and Java/Spring backend functionality for an institutional business online system.
+Led development and iterative delivery of securities-related systems, including backend services, key-module design, system integration, and production support. Kafka and Redis have both been used in production systems; they are not attributed to a specific project without confirmed module-level details. Personally developed Vue.js frontend features and Java/Spring backend functionality for an institutional business online system.
 
 - Translated evolving securities-business rules into backend workflows and system functionality.
 - Designed key modules and technical solutions; handled APIs, cross-system integration, and data consistency.
@@ -62,7 +64,7 @@ Led development of backend modules for pre-trade and post-trade controls in an i
 
 Led development and iterative enhancement of modules supporting investment trading, portfolio management, and position management.
 
-- Led requirements analysis, technical design, and backend implementation.
+- Led requirements analysis, technical design, and backend implementation. Used Docker in this asset-management system.
 - Developed business logic, data processing, and service APIs for investment transactions, portfolio information, and position data.
 - Addressed data validation, cross-system integration, SQL troubleshooting, testing, and release validation.
 
