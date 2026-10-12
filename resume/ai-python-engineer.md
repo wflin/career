@@ -6,15 +6,11 @@ Shanghai, China · Open to International Remote / Contractor Opportunities
 
 ## Professional Summary
 
-Software Engineer with 20+ years of development experience and a strong backend engineering background, now focused on practical Python, AI/LLM applications, financial data analysis, quantitative research tooling, and AI-powered product development.
+Software Engineer with 20+ years of development experience and a strong backend engineering foundation, now applying Python, FastAPI, financial-data workflows, and LLM/RAG techniques to independent software projects. Brings 10+ years of real-world securities and financial technology experience, including trading-related systems, corporate actions, clearing/reconciliation, and portfolio-related services.
 
-Experienced with Python, FastAPI, SQL/MySQL, Java, JavaScript/TypeScript, Next.js, REST APIs, LLM/RAG applications, data processing, and AI-assisted software development.
+Current hands-on projects include an A-share ETF and sector research platform, a financial-document research prototype using LLM/RAG, and small AI-enabled product experiments. Experienced in requirements breakdown, API/backend implementation, data processing, integration, testing, and build/deployment validation. AI and Python project experience is presented as practical project work, distinct from long-term production FinTech experience.
 
-Brings substantial real-world financial technology experience from securities and brokerage systems, including trading-related systems, ETF processing, corporate actions, clearing and reconciliation, and portfolio-related services.
-
-Currently building independent Python and AI applications, including an A-share ETF/sector research tool, a financial-document research prototype using LLM/RAG, and small AI-powered product experiments. Practical work spans requirements breakdown, backend and data workflows, testing, build/deployment validation, and iteration.
-
-Seeking international remote opportunities in Python backend engineering, AI application development, LLM applications, AI-enabled SaaS, financial data engineering, automation, and software engineering. Open to full-time remote, contractor, and project-based work.
+Seeking Python backend, AI application, LLM application, financial-data, and backend-oriented full-stack roles.
 
 ## Core Skills
 
@@ -84,7 +80,7 @@ Led backend development, important module design, and technical solutions for se
 Led backend development and important module design for financial processing and DMA-related functions.
 
 - Led development and iteration of five major versions, adapting processing logic as business rules and applicable regulatory requirements changed.
-- Analyzed rule changes and updated related system functions; public regulatory milestones provide industry context but are not a confirmed mapping to internal version dates.
+- Analyzed rule changes and updated related system functions.
 - Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating complex account flows into implementable backend processes.
 - Supported rapid growth in DMA business and system usage from early 2022 through ongoing functional iterations and operational issue resolution.
 - Worked on cash dividends, rights issues, conversion and bonus-share processing, ETF splits/mergers, clearing/reconciliation, portfolio-related processing, and pre-/post-processing validation.
@@ -92,15 +88,14 @@ Led backend development and important module design for financial processing and
 - Used Java as the primary implementation technology.
 
 ### PB Institutional Trading System
-**Backend Engineering | Pre-trade and Post-trade Risk Controls · Java · Spring · SQL · MySQL · REST APIs**
+**Backend Engineering | Pre-trade Validation & Post-trade Monitoring · Java · Spring · SQL · MySQL · REST APIs**
 
-Led backend development for PB risk-control modules, covering order validation before execution and portfolio monitoring after execution for institutional accounts.
+Led backend development for PB institutional-trading controls covering pre-trade order validation and post-trade monitoring.
 
-- **Pre-trade indicators:** single-stock concentration, industry concentration, maximum position per security, order-value and order-quantity caps, order-price deviation, price-limit validation, permitted-security checks, available cash/buying power, and account exposure/leverage limits.
-- **Post-trade indicators:** single-stock concentration, industry exposure, total position ratio, cash ratio, market-value exposure per security, unrealized-loss threshold, account daily-loss threshold, portfolio drawdown, holding liquidity/estimated liquidation period, and limit-breach monitoring.
-- Turned account, product, order, execution, and position data into backend validation and monitoring logic.
-- Supported system integration, data checks, SQL troubleshooting, testing, release validation, and production issue investigation.
-
+- Implemented checks around order constraints, eligible securities, available cash/buying power, and account or position limits.
+- Implemented monitoring for positions, security/industry exposure, loss thresholds, and risk-limit breaches.
+- Translated account, product, order, execution, and position relationships into backend validation and monitoring logic.
+- Supported trading-gateway integration, data checks, SQL troubleshooting, testing, release validation, and production issue investigation.
 ### Institutional Business Online System
 **Full-Stack Engineering | Vue.js · JavaScript · Java · Spring · SQL · MySQL · REST APIs**
 
@@ -187,15 +182,13 @@ Independent product experiments using Next.js and related web technologies:
 
 ## Target Opportunities
 
-- Python Software Engineer
 - Python Backend Engineer
+- Python Software Engineer
 - AI Application Engineer
-- AI Software Engineer
 - LLM Application Engineer
-- AI Backend Engineer
+- AI-enabled Backend Engineer
 - Financial Data Engineer
 - AI Automation Engineer
-- Full-Stack / AI Product Engineer
-- Software Engineer
+- Backend-oriented Full-Stack Engineer
 
-**Preferred engagement:** International remote · Remote contractor · Part-time / project-based
+**Preferred engagement:** International remote · Remote contractor · Part-time / project-based · Full-time remote
