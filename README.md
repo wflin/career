@@ -22,8 +22,13 @@ Open to:
 
 ## Resume
 
-- [高级软件工程师（中文）](resume/senior-software-engineer-zh.md)
-- [Senior Software Engineer (English)](resume/senior-software-engineer.md)
+Choose the version that matches the role; keep factual work history consistent across versions.
+
+- [高级软件工程师（中文）](resume/senior-software-engineer-zh.md) — 中文岗位投递
+- [Senior Software Engineer (English)](resume/senior-software-engineer.md) — 主简历，适合 Senior Backend / Senior Software Engineer / backend-oriented Full-Stack
+- [FinTech Engineer (English)](resume/fintech-engineer.md) — 证券、券商科技、交易系统、金融软件岗位
+- [Python & AI Engineer (English)](resume/ai-python-engineer.md) — Python 后端、AI/LLM 应用、金融数据岗位
+- [Senior Software Engineer — Bjak Version](resume/senior-software-engineer-bjak.md) — 针对特定岗位的定制版本，投递前请按实际 JD 再调整关键词
 
 ## Selected Projects
 
