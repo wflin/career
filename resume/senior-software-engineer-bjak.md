@@ -72,7 +72,7 @@ Key contributions included:
 - Used Java and related backend technologies as the primary work foundation, alongside personal and recent project work with Python, FastAPI, data tooling, and AI applications.
 
 ### DMA / Corporate Actions & Clearing Project
-**Backend Engineer | Jul 2020 – Dec 2022**
+**Backend Engineer | Jul 2020 – May 2025**
 
 Worked on backend development and important module design for DMA-related and financial processing, including rights and bonus processing, ETF split/merger, dividend allocation, clearing/reconciliation, trading-service integration, portfolio-related processing, and pre-/post-processing controls.
 
