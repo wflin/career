@@ -14,7 +14,9 @@ Led development across DMA-related financial processing, PB institutional tradin
 
 - **Backend:** Java, Spring, Spring Boot, REST APIs, key-module design, integration, debugging, production support
 - **Data:** SQL, MySQL, data validation, reconciliation, batch processing
-- **Middleware & distributed systems:** Kafka messaging/event streaming, Redis caching and data structures, distributed consistency, idempotency, retry/recovery patterns, Raft consensus concepts
+- **Production middleware:** Kafka and Redis (production use)
+- **Distributed systems & reliability:** Data consistency, idempotency, retry/recovery patterns, asynchronous processing, concurrency fundamentals
+- **Personal practice / concepts:** RabbitMQ/RocketMQ (personal-project practice); Raft consensus algorithm (implementation practice)
 - **Architecture & reliability:** Microservices, asynchronous processing, concurrency fundamentals, API integration, performance troubleshooting, logging/monitoring, Git/GitHub
 - **Full-stack:** Vue.js, JavaScript, TypeScript, Next.js
 - **Additional project work:** Python, FastAPI, financial-data tooling, LLM/RAG application experiments
@@ -25,7 +27,7 @@ Led development across DMA-related financial processing, PB institutional tradin
 ### East Money Securities — Senior Software Engineer (Backend & Full-Stack)
 **Shanghai, China | Mar 2016 – May 2026**
 
-Led backend development, key-module delivery, system integration, and ongoing improvement for securities-related systems. Also personally developed frontend functionality for an institutional business online system.
+Led backend development, key-module delivery, system integration, and ongoing improvement for securities-related systems. Kafka and Redis have both been used in production systems; exact project-level mappings are not specified without confirmed module details. Also personally developed frontend functionality for an institutional business online system.
 
 - Converted changing business requirements into backend workflows and system functions.
 - Designed key modules and technical solutions; handled API integration and data consistency.
@@ -51,7 +53,7 @@ Led development of backend modules for pre-trade and post-trade controls in an i
 ### Asset Management System
 **Project Lead / Backend Engineering | Investment Trading, Portfolio & Position Management**
 
-Led backend development for investment trading, portfolio management, and position management, including requirements analysis, technical design, data processing, service APIs, integration, testing, and production troubleshooting.
+Led backend development for investment trading, portfolio management, and position management, including requirements analysis, technical design, data processing, service APIs, integration, testing, and production troubleshooting. Used Docker in this system.
 
 ### Institutional Business Online System
 **Project Lead / Full-Stack Engineering | Vue.js · Java · Spring · SQL · MySQL**
