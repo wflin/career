@@ -87,23 +87,23 @@ Primary technology: Java and related backend technologies.
 ### Asset Management System Development
 **Backend Engineer | Java · Spring · SQL · MySQL · REST APIs**
 
-Contributed to backend development and ongoing enhancement of securities asset-management-related systems, focusing on business logic, data processing, service interfaces, and internal system integration.
+Led backend development and ongoing enhancement of securities asset-management-related systems, focusing on business logic, data processing, service interfaces, and internal system integration.
 
-- Participated in requirements analysis, technical discussions, and backend module development.
+- Led requirements analysis, technical design, and backend module development.
 - Implemented business logic, data-processing functions, and service interfaces using Java and Spring.
 - Supported cross-system integration and investigated data exchange and workflow handoff issues.
-- Troubleshot SQL queries, API issues, and production defects; participated in testing and release validation.
+- Led troubleshooting of SQL queries, API issues, and production defects, testing, and release validation.
 
 ### Institutional Business Online System
 **Full-Stack Engineer | Java · Spring · Vue.js · JavaScript · SQL · MySQL · REST APIs**
 
-Contributed to the online delivery of institutional business workflows through hands-on frontend and backend development.
+Led the online delivery of institutional business workflows through hands-on frontend and backend development.
 
 - Developed frontend pages and interactive features using Vue.js and JavaScript.
 - Built backend modules and REST APIs using Java and Spring, connecting frontend workflows to business services.
 - Supported MySQL data access and integration with related internal systems.
 - Investigated API, workflow, and data consistency issues and supported end-to-end validation.
-- Participated in feature iterations, integration testing, release validation, and production troubleshooting.
+- Led feature iterations, integration testing, release validation, and production troubleshooting.
 
 ### Kingstar (金仕达) — Software Engineer, Financial Trading Systems
 **Shanghai, China | Feb 2012 – Jun 2014**
