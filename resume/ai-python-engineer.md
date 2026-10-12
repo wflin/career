@@ -91,6 +91,15 @@ Led backend development and important module design for financial processing and
 - Reconciled end-of-day cash and securities positions between DMA contract accounts and centralized trading funding accounts, investigating discrepancies and supporting follow-up processing.
 - Used Java as the primary implementation technology.
 
+### PB Institutional Trading System
+**Backend Engineering | Java · Spring · SQL · MySQL · REST APIs**
+
+Led backend module development for a PB institutional trading system, focusing on institutional account/product workflows, multi-account order processing, cash and position queries, data validation, and integration with trading gateways and internal services.
+
+- Translated business workflows into backend services and API functionality.
+- Implemented order processing and status transitions, data queries, and consistency checks across related modules.
+- Supported interface integration, SQL troubleshooting, testing, release validation, and production issue investigation.
+
 ### Institutional Business Online System
 **Full-Stack Engineering | Vue.js · JavaScript · Java · Spring · SQL · MySQL · REST APIs**
 
