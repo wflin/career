@@ -14,6 +14,7 @@
 
 - **后端工程：** Java、Spring、Spring Boot、REST API、关键模块设计、系统集成、生产故障排查、性能分析
 - **数据处理：** SQL、MySQL、批量处理、数据校验、清算与对账
+- **中间件与分布式系统：** Kafka 消息/事件处理、Redis 缓存与数据结构、分布式系统基础、数据一致性、幂等、重试与补偿；Raft 一致性算法原理
 - **前端：** JavaScript、TypeScript、Vue.js、Next.js
 - **Python 与 AI 项目：** Python、FastAPI、金融数据处理、量化研究工具、LLM/RAG 应用实践
 - **金融业务：** 证券交易、集中交易、融资融券、DMA 相关处理、公司行为、ETF 拆分合并、清算对账、投资交易、组合及持仓管理
