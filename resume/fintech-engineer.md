@@ -83,24 +83,24 @@ Led backend implementation and important module design for DMA-related and finan
 ### Asset Management System Development
 **Backend Engineer | Java · Spring · SQL · MySQL · REST APIs**
 
-Contributed to the development and maintenance of securities asset-management-related applications, with a focus on backend business logic, data processing, service interfaces, and integration with related internal systems.
+Led the development and maintenance of securities asset-management-related applications, with a focus on backend business logic, data processing, service interfaces, and integration with related internal systems.
 
-- Participated in requirements analysis, technical solution discussions, and backend feature development.
+- Led requirements analysis, technical solution design, and backend feature development.
 - Implemented business logic and data-processing functions using Java and Spring.
-- Supported API integration and investigated data-exchange and workflow handoff issues across systems.
-- Troubleshot SQL, interface, and production issues and participated in functional testing and release validation.
-- Maintained existing functionality and supported iterative business changes.
+- Led API integration and investigated data-exchange and workflow handoff issues across systems.
+- Led troubleshooting of SQL, interface, and production issues, functional testing, and release validation.
+- Owned ongoing maintenance and led implementation of iterative business changes.
 
 ### Institutional Business Online System
 **Full-Stack Engineer | Java · Spring · Vue.js · JavaScript · SQL · MySQL · REST APIs**
 
-Contributed to institutional business online services through frontend and backend development, helping translate business workflows into online application functions.
+Led institutional business online services through frontend and backend development, helping translate business workflows into online application functions.
 
 - Developed frontend pages and interactive workflows with Vue.js and JavaScript.
 - Implemented backend business modules and REST APIs using Java and Spring.
 - Connected frontend workflows with backend services and supported data access through MySQL.
 - Integrated application functions with related internal systems and investigated interface or data-consistency issues.
-- Participated in integration testing, release validation, and production troubleshooting.
+- Led integration testing, release validation, and production troubleshooting.
 
 ### Kingstar (金仕达) — Software Engineer, Financial Trading Systems
 **Shanghai, China | Feb 2012 – Jun 2014**
