@@ -6,13 +6,11 @@ Shanghai, China · Open to International Remote / Contractor Opportunities
 
 ## Professional Summary
 
-Senior Software Engineer with 20+ years of software development experience, including more than 10 years working on securities and financial technology systems.
+Senior Software Engineer with 20+ years of software development experience, including 10+ years building and maintaining securities and financial technology systems. Strong in Java/Spring backend engineering, business-critical workflows, API and system integration, data consistency, production troubleshooting, and iterative delivery.
 
-Experienced in designing and implementing backend services and complex business workflows for production financial systems, with strong focus on system reliability, data consistency, API integration, system integration, and production problem-solving. Strong Java background with hands-on experience in Python, FastAPI, SQL, JavaScript/TypeScript, AI/LLM applications, financial data analysis, and quantitative research tooling.
+Led key-module development for DMA-related financial processing, PB institutional trading, asset-management workflows, and an institutional business online system. In addition to backend engineering, delivered Vue.js frontend functionality integrated with Java/Spring services. Brings a practical, production-oriented approach to requirements analysis, implementation, testing, release validation, and issue resolution.
 
-Financial technology experience includes securities trading systems, margin financing, DMA-related processing, ETF operations, corporate actions, clearing and reconciliation, and portfolio-related services. Comfortable working across business requirements, technical implementation, integration, testing, troubleshooting, and production delivery.
-
-Currently expanding practical experience in Python, AI/LLM applications, financial data platforms, quantitative research tools, and AI-powered software products.
+Also develops Python/FastAPI financial-data tools and explores LLM/RAG applications through independent projects. Seeking senior software engineering opportunities where backend depth, complex business workflows, reliability, and cross-functional delivery are valued.
 
 ## Core Skills
 
@@ -77,7 +75,7 @@ Key contributions included:
 Led backend development and important module design for DMA-related and financial processing, including rights and bonus processing, ETF split/merger, dividend allocation, clearing/reconciliation, trading-service integration, portfolio-related processing, and pre-/post-processing controls.
 
 - Led development and iteration of five major versions, adapting processing logic as business rules and applicable regulatory requirements changed.
-- Analyzed rule changes and updated related system functionality; public regulatory milestones provide industry context but are not a confirmed mapping to internal version dates.
+- Analyzed rule changes and updated related system functionality.
 - Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating complex account flows into implementable backend processes.
 - Supported rapid growth in DMA business and system usage from early 2022 through ongoing functional iterations and operational issue resolution.
 - Focused on complex corporate actions, end-of-day cash/position reconciliation, discrepancy investigation, duplicate/abnormal data validation, cross-system interface recovery, SQL/batch and end-of-day job performance troubleshooting, release validation, and production issue resolution.
@@ -85,15 +83,14 @@ Led backend development and important module design for DMA-related and financia
 Primary technology: Java and related backend technologies.
 
 ### PB Institutional Trading System
-**Backend Engineer | Pre-trade and Post-trade Risk Controls · Java · Spring · SQL · MySQL · REST APIs**
+**Backend Engineer | Pre-trade Validation & Post-trade Monitoring · Java · Spring · SQL · MySQL · REST APIs**
 
-Led backend development of PB risk-control modules for institutional trading, covering pre-trade order validation and post-trade exposure monitoring.
+Led backend development of institutional PB trading controls for pre-trade order validation and post-trade exposure monitoring.
 
-- **Pre-trade indicators:** single-stock concentration, industry concentration, per-security position cap, order-value cap, order-quantity cap, order-price deviation, price-limit validation, permitted-security checks, available cash/buying power, and account exposure/leverage limits.
-- **Post-trade indicators:** single-stock concentration, industry exposure, total position ratio, cash ratio, market-value exposure per security, unrealized-loss threshold, account daily-loss threshold, portfolio drawdown, holding liquidity/estimated liquidation period, and limit-breach monitoring.
+- Implemented checks around order constraints, eligible securities, available cash/buying power, and account or position limits.
+- Implemented monitoring for positions, security/industry exposure, loss thresholds, and risk-limit breaches.
 - Designed backend validation and monitoring logic based on account, product, order, execution, and position data.
-- Integrated risk-control services with trading gateways and internal systems; led data checks, testing, release validation, and production issue resolution.
-
+- Integrated with trading gateways and internal systems; led data checks, testing, release validation, and production issue resolution.
 ### Asset Management System Development
 **Backend Engineer | Investment Trading, Portfolio & Position Management · Java · Spring · SQL · MySQL**
 
@@ -171,15 +168,12 @@ Building small AI-powered product prototypes with Next.js and related web techno
 
 ## Target Opportunities
 
-- Staff Software Engineer
 - Senior Software Engineer
 - Senior Backend Engineer
+- Backend / Platform Engineer
 - FinTech Software Engineer
 - Financial Software Engineer
 - Python Engineer
 - AI Application Engineer
 
-Preferred engagement:
-- International remote
-- Remote contractor
-- Full-time
+**Preferred engagement:** International remote · Remote contractor · Full-time remote
