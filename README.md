@@ -1,4 +1,4 @@
-# WANG LIN — Career
+# WANG FULIN — Career
 
 Professional profile, resume, portfolio, and selected software projects for international remote opportunities.
 
@@ -22,7 +22,8 @@ Open to:
 
 ## Resume
 
-- [Senior Software Engineer](resume/senior-software-engineer.md)
+- [高级软件工程师（中文）](resume/senior-software-engineer-zh.md)
+- [Senior Software Engineer (English)](resume/senior-software-engineer.md)
 
 ## Selected Projects
 
