@@ -16,6 +16,7 @@ Brings strong experience in translating complex business rules into services, in
 - **AI application practice:** LLM application experiments, RAG workflows, financial-document retrieval, AI-assisted development
 - **Financial data:** A-share ETF classification and research, historical data processing, sector analysis, signal validation
 - **Software engineering:** Java, Spring, Spring Boot, REST APIs, system integration, debugging, testing, release validation
+- **Middleware & distributed systems:** Kafka messaging/event streaming, Redis caching and data structures, distributed-system fundamentals, consistency, idempotency, retry/recovery patterns, Raft consensus concepts
 - **Frontend:** JavaScript, TypeScript, Vue.js, Next.js
 - **Domain experience:** Securities trading, DMA-related processing, corporate actions, ETF operations, clearing/reconciliation, investment trading and portfolio/position management
 
