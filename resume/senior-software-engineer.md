@@ -29,7 +29,7 @@ Targeting Senior Software Engineer and Senior Backend Engineer roles, with addit
 ### East Money Securities — Senior Software Engineer (Backend & Full-Stack)
 **Shanghai, China | Mar 2016 – May 2026**
 
-Led development and iterative delivery for securities-related systems, including key-module design, backend services, integration, and production support. Used Kafka and Redis in production systems; specific middleware-to-project mappings are not assigned here without confirmed module details. In the institutional business online system, personally developed Vue.js frontend features as well as Java/Spring backend functionality.
+Led development and iterative delivery for securities-related systems, including key-module design, backend services, integration, and production support. In the institutional business online system, personally developed Vue.js frontend features as well as Java/Spring backend functionality.
 
 - Translated changing securities-business rules into implementable backend workflows and system functions.
 - Designed key modules and technical solutions; handled API integration, data consistency, and cross-system issue investigation.
@@ -67,7 +67,7 @@ Led development of backend modules for pre-trade and post-trade controls in an i
 
 Led development and iterative enhancement of modules supporting investment trading, portfolio management, and position management.
 
-- Led requirements analysis, technical design, and backend implementation for investment and portfolio workflows. Used Docker in this system's development/deployment workflow.
+- Led requirements analysis, technical design, and backend implementation for investment and portfolio workflows.
 - Developed business logic, data processing, and service APIs for transaction, portfolio, and position data.
 - Addressed data validation, cross-system integration, SQL and production troubleshooting, testing, and release validation.
 
