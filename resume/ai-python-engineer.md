@@ -28,7 +28,7 @@ Brings strong experience in translating complex business rules into services, in
 ### East Money Securities — Senior Software Engineer (Backend & Full-Stack)
 **Shanghai, China | Mar 2016 – May 2026**
 
-Led backend development and key-module delivery for securities-related systems. Kafka and Redis have both been used in production systems; exact project-level mappings are not specified without confirmed module details. The long-term production stack was primarily Java/Spring; Python and AI/LLM work is represented separately under independent projects. Personally developed Vue.js frontend features as well as Java/Spring backend functionality for an institutional business online system.
+Led backend development and key-module delivery for securities-related systems. The long-term production stack was primarily Java/Spring; Python and AI/LLM work is represented separately under independent projects. Personally developed Vue.js frontend features as well as Java/Spring backend functionality for an institutional business online system.
 
 - Translated complex and changing business rules into backend workflows and system functions.
 - Designed key modules, integrated APIs and internal systems, and addressed data consistency issues.
