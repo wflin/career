@@ -12,7 +12,7 @@ Experienced with Python, FastAPI, SQL/MySQL, Java, JavaScript/TypeScript, Next.j
 
 Brings substantial real-world financial technology experience from securities and brokerage systems, including trading-related systems, ETF processing, corporate actions, clearing and reconciliation, and portfolio-related services.
 
-Currently building independent Python and AI applications, including financial research and quantitative analysis tools and small AI-powered SaaS/product experiments. Comfortable taking a product from requirements and architecture through implementation, testing, deployment, and iteration.
+Currently building independent Python and AI applications, including an A-share ETF/sector research tool, a financial-document research prototype using LLM/RAG, and small AI-powered product experiments. Practical work spans requirements breakdown, backend and data workflows, testing, build/deployment validation, and iteration.
 
 Seeking international remote opportunities in Python backend engineering, AI application development, LLM applications, AI-enabled SaaS, financial data engineering, automation, and software engineering. Open to full-time remote, contractor, and project-based work.
 
@@ -27,7 +27,7 @@ Seeking international remote opportunities in Python backend engineering, AI app
 - Data processing and automation
 - API integration
 - Production troubleshooting
-- Git / GitHub / Linux / Docker
+- Git / GitHub
 
 ### AI / LLM
 - LLM application development
@@ -69,26 +69,22 @@ Seeking international remote opportunities in Python backend engineering, AI app
 ### East Money Securities — Backend / Server-side Software Engineer
 **Shanghai, China | Mar 2016 – May 2026**
 
-Worked on server-side development and maintenance for securities-related applications and business services.
+Worked on backend/server-side development, important module design, and technical solutions for securities-related applications and business services.
 
-- Developed backend business logic and financial processing services.
-- Worked on ETF-related processing and corporate-action workflows.
-- Supported clearing, reconciliation, and portfolio-related services.
-- Developed and maintained system integrations and business interfaces.
-- Investigated production issues and supported system stability and maintenance.
-- Worked with business, development, and operational teams to deliver and support software.
+- Translated business requirements and changing business rules into backend processing logic and system functions.
+- Worked on DMA-related processing, ETF split/merger, corporate actions, dividend allocation, clearing/reconciliation, and portfolio-related services.
+- Contributed to service interfaces, cross-system integration, data consistency checks, and pre-/post-processing validation.
+- Investigated production incidents and performance issues, participated in code reviews, and maintained business-critical services.
 
 ### DMA / Corporate Actions & Clearing Project
 **Backend Engineer | Jul 2020 – Dec 2022**
 
-Worked on backend development for financial processing and DMA-related functions.
+Worked on backend development and important module design for financial processing and DMA-related functions.
 
-- Implemented rights issue and bonus distribution processing.
-- Developed ETF split / merger related processing.
-- Implemented dividend allocation and related processing.
-- Supported clearing reconciliation and data consistency checks.
-- Worked on long / short portfolio-related processing.
-- Implemented pre- and post-processing controls around financial workflows.
+- Developed and iterated five major versions, with each version driven by changes to applicable business rules and regulatory requirements.
+- Analyzed rule changes and updated the related processing logic and system functions.
+- Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating business workflows into implementable backend processes.
+- Worked on rights issue and bonus distribution, ETF split/merger, dividend allocation, clearing/reconciliation, portfolio-related processing, and pre-/post-processing validation.
 - Used Java as the primary implementation technology.
 
 ### Kingstar (金仕达) — Software Engineer, Financial Trading Systems
@@ -114,43 +110,41 @@ Participated in software development and maintenance for GPS and real-estate rel
 Independent research platform for A-share ETF and sector analysis.
 
 Key capabilities:
-- ETF classification and industry/topic organization
-- Representative ETF selection
-- Historical market-data processing
-- Watchlists and research dashboards
-- Sector and ETF analysis
-- Signal validation
-- Research workflows designed to avoid future-data leakage
+- Organized 948 ETFs into 14 top-level categories, 63 secondary categories, and 156 tertiary themes.
+- Representative ETF candidate pool using factors including fund size and liquidity.
+- Historical data processing, watchlists, sector analysis, signal validation, and dashboards.
+- Reproducible research workflows with attention to avoiding look-ahead bias.
 
 ### AI-Powered Financial Research Platform
 **Python · FastAPI · LLM · RAG · Financial Data**
 
-Independent project exploring AI-assisted financial research and structured financial information.
+Independent project exploring AI-assisted financial research and structured financial information, initially focusing on annual reports and other financial documents.
 
 Focus areas:
-- Financial knowledge organization
+- Financial document and knowledge organization
 - RAG-based information retrieval
 - LLM-assisted research workflows
 - Python backend services
-- Integration of structured financial data with AI applications
+- Integration of structured financial information with AI applications
+
+The project is under active development and scenario validation.
 
 ### AI Product / SaaS Experiments
 **Next.js · TypeScript · AI APIs · GitHub**
 
-Independent product experiments covering the complete development cycle:
-- Product discovery and requirements
-- Solution design
-- AI-assisted implementation
-- Frontend and backend development
-- Testing
-- Deployment
+Independent product experiments using Next.js and related web technologies:
+- Requirements breakdown and MVP scope control
+- Product and solution design
+- Frontend and application implementation
+- GitHub-based version iteration
+- Build and deployment validation
 - Iterative product validation
 
 ## Education
 
-- **Northeastern University of Finance and Economics (东北财经大学)** — Bachelor's Degree, Finance
-- **Shanghai Business School (上海商学院)** — Business Administration
-- **Three Gorges University (三峡大学)** — Diploma, Mechanical & Electrical Technology Applications
+- **Dongbei University of Finance and Economics (东北财经大学)** — Bachelor's Degree in Finance
+- **Shanghai Business School (上海商学院)** — Undergraduate studies in Business Administration; no degree awarded
+- **Three Gorges University (三峡大学)** — Mechanical and Electrical Technology Applications
 
 ## Certification
 
