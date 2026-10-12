@@ -79,8 +79,8 @@ Led backend development and important module design for DMA-related and supporti
 - Led development and iteration of **five major versions** of the system, adapting backend workflows as business rules and applicable regulatory requirements changed.
 - Analyzed change impact and updated relevant processing logic and system functions; public regulatory milestones provide industry context but are not a confirmed mapping to internal version dates.
 - Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating complex account flows and business workflows into implementable backend processes.
-- Supported rapid growth in DMA business and system usage from early 2022 through ongoing functional iterations and operational issue resolution.
-- Designed important modules and technical solutions, and contributed to service integration, data consistency checks, and pre-/post-processing validation.
+- Led ongoing system iterations and operational issue resolution as DMA business grew rapidly and system usage from early 2022 through ongoing functional iterations and operational issue resolution.
+- Designed important modules and technical solutions, and Led service integration, data consistency checks, and pre-/post-processing validation.
 - Supported cash dividends, rights issues, conversion and bonus-share processing, ETF splits/mergers, clearing/reconciliation, and long/short portfolio-related workflows.
 - Reconciled end-of-day cash balances and securities positions between DMA contract accounts and centralized trading funding accounts; investigated discrepancies and supported follow-up processing.
 
@@ -89,20 +89,20 @@ Primary technology: Java and related backend technologies.
 ### Asset Management System Development
 **Backend Engineer | Java · Spring · SQL · MySQL · REST APIs**
 
-Contributed to the development and ongoing enhancement of securities asset-management-related systems, focusing on business functionality, data processing, service interfaces, and integration with related internal systems.
+Led the development and ongoing enhancement of securities asset-management-related systems, focusing on business functionality, data processing, service interfaces, and integration with related internal systems.
 
-- Participated in requirements analysis, technical discussions, and backend module development.
+- Led requirements analysis, technical design, and backend module development.
 - Implemented business logic, data processing, and service interfaces using Java and Spring.
-- Supported system integration and investigated issues involving data exchange and business workflow handoffs.
-- Troubleshot SQL queries, API issues, and production defects, and supported fix verification.
-- Participated in functional testing, cross-system integration, release validation, and ongoing system maintenance.
+- Led system integration and investigated issues involving data exchange and business workflow handoffs.
+- Led troubleshooting of SQL queries, API issues, and production defects, and verified fixes.
+- Led functional testing, cross-system integration, release validation, and ongoing system maintenance.
 
 ### Institutional Business Online System
 **Full-Stack Engineer | Java · Spring · Vue.js · JavaScript · SQL · MySQL · REST APIs**
 
-Contributed to the online delivery of institutional business workflows through frontend and backend development, web-based functionality, backend services, and integration with internal systems.
+Led the online delivery of institutional business workflows through frontend and backend development, web-based functionality, backend services, and integration with internal systems.
 
-- Translated institutional business requirements into online application features and workflows.
+- Led the translation of institutional business requirements into online application features and workflows.
 - Developed frontend pages and interactive features using Vue.js and JavaScript for business information display, queries, and operational workflows.
 - Developed backend modules and REST APIs using Java and Spring, implementing business logic, data access, and frontend/backend integration.
 - Worked with MySQL for data queries and processing, and integrated services with related internal platforms.
