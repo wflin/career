@@ -86,6 +86,29 @@ Worked on backend development and important module design for DMA-related and su
 
 Primary technology: Java and related backend technologies.
 
+### Asset Management System Development
+**Backend Engineer | Java · Spring · SQL · MySQL · REST APIs**
+
+Contributed to the development and ongoing enhancement of securities asset-management-related systems, focusing on business functionality, data processing, service interfaces, and integration with related internal systems.
+
+- Participated in requirements analysis, technical discussions, and backend module development.
+- Implemented business logic, data processing, and service interfaces using Java and Spring.
+- Supported system integration and investigated issues involving data exchange and business workflow handoffs.
+- Troubleshot SQL queries, API issues, and production defects, and supported fix verification.
+- Participated in functional testing, cross-system integration, release validation, and ongoing system maintenance.
+
+### Institutional Business Online System
+**Full-Stack Engineer | Java · Spring · Vue.js · JavaScript · SQL · MySQL · REST APIs**
+
+Contributed to the online delivery of institutional business workflows through frontend and backend development, web-based functionality, backend services, and integration with internal systems.
+
+- Translated institutional business requirements into online application features and workflows.
+- Developed frontend pages and interactive features using Vue.js and JavaScript for business information display, queries, and operational workflows.
+- Developed backend modules and REST APIs using Java and Spring, implementing business logic, data access, and frontend/backend integration.
+- Worked with MySQL for data queries and processing, and integrated services with related internal platforms.
+- Performed frontend/backend integration, workflow validation, and troubleshooting for API, data consistency, and business-processing issues.
+- Supported feature iterations, integration testing, release validation, and production issue resolution.
+
 ### Kingstar (金仕达) — Software Engineer, Financial Trading Systems
 **Feb 2012 – Jun 2014**
 
