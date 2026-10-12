@@ -60,8 +60,10 @@ Worked on backend/server-side development, important module design, and technica
 Key contributions:
 - Translated business rules and regulatory/business-rule changes into backend processing logic and system functions.
 - Designed important modules and contributed to technical solutions, service interfaces, and cross-system integration.
-- Worked on DMA-related processing, ETF split/merger workflows, corporate actions, dividend allocation, clearing/reconciliation, and portfolio-related services.
-- Addressed data consistency and validation across financial processing stages.
+- Worked on DMA-related processing and complex corporate actions, including cash dividends, rights issues, conversion, bonus shares, and ETF splits/mergers.
+- Supported processing between funding accounts and DMA contract accounts, including end-of-day reconciliation of cash balances and securities positions between DMA contract accounts and centralized trading funding accounts.
+- Investigated reconciliation discrepancies and worked on corporate-action effective dates, processing sequence, duplicate/abnormal data validation, cross-system interface issues, and follow-up processing.
+- Participated in SQL/batch-processing and end-of-day job performance troubleshooting, release validation, production issue resolution, and business/technical integration testing.
 - Investigated production issues and performance problems, participated in code reviews, and maintained business-critical services.
 
 ### DMA / Corporate Actions & Clearing Project
@@ -69,10 +71,12 @@ Key contributions:
 
 Focused on backend implementation and important module design for DMA-related and financial processing functions.
 
-- Developed and iterated five major versions, with each version driven by changes to applicable business rules and regulatory requirements.
-- Analyzed rule changes and updated corresponding processing logic and system functionality.
-- Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating business workflows into implementable backend processes.
-- Worked on rights issue and bonus distribution, ETF split/merger, dividend allocation, clearing/reconciliation, portfolio-related processing, and trading-service integration.
+- Developed and iterated five major versions, adapting processing logic as business rules and applicable regulatory requirements changed.
+- Analyzed rule changes and updated related system functionality; public regulatory milestones provide industry context but are not a confirmed mapping to internal version dates.
+- Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating complex account flows into implementable backend processes.
+- Supported rapid growth in DMA business and system usage from early 2022 through ongoing functional iterations and operational issue resolution.
+- Worked on cash dividends, rights issues, conversion and bonus-share processing, ETF splits/mergers, clearing/reconciliation, portfolio-related processing, and trading-service integration.
+- Reconciled end-of-day cash and securities positions between DMA contract accounts and centralized trading funding accounts, investigating discrepancies and supporting follow-up processing.
 - Contributed to data consistency checks and pre-/post-processing validation.
 - Used Java as the primary implementation technology.
 
