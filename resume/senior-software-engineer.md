@@ -86,6 +86,16 @@ Led backend development and important module design for DMA-related and supporti
 
 Primary technology: Java and related backend technologies.
 
+### PB Institutional Trading System
+**Backend Development / Core Module Design | Java · Spring · SQL · MySQL · REST APIs**
+
+Led backend module development and iterative enhancement for a PB institutional trading system serving institutional investment workflows, covering multi-account trading, order instruction processing, cash and position queries, workflow integration, and interfaces with related systems.
+
+- Analyzed institutional trading workflows and relationships among products, accounts, orders, and transaction data; designed and implemented backend business modules.
+- Implemented order instruction handling and order-status transitions, account/product data queries, and business-data validation, with attention to cross-module data consistency.
+- Integrated services with trading gateways and internal business systems, investigated interface exceptions, and handled follow-up processing to support stable trading workflows.
+- Led SQL troubleshooting, integration testing, release validation, and production issue investigation as the system evolved.
+
 ### Asset Management System Development
 **Backend Engineer | Java · Spring · SQL · MySQL · REST APIs**
 
