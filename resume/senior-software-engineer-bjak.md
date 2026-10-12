@@ -23,7 +23,7 @@ Currently expanding practical experience in Python, AI/LLM applications, financi
 - Production reliability and stability troubleshooting
 - Data processing and automation
 - System integration and legacy modernization
-- Git / GitHub / Linux / Docker
+- Git / GitHub
 
 ### Languages & Frameworks
 - Java / Spring / Spring Boot
@@ -59,29 +59,27 @@ Currently expanding practical experience in Python, AI/LLM applications, financi
 ### East Money Securities — Backend / Server-side Software Engineer
 **Shanghai, China | Mar 2016 – May 2026**
 
-Worked on server-side software development for securities and brokerage-related systems.
+Worked on backend/server-side development, important module design, and technical solutions for securities and brokerage-related systems.
 
-Key responsibilities and contributions included:
-- Designed and implemented backend services and business workflows for securities applications.
-- Worked on complex financial transaction processing, API integration, data processing, and system integration.
-- Participated in ETF operations, corporate actions, clearing and reconciliation, and portfolio-related services.
-- Worked on production reliability, troubleshooting, maintenance, and issue resolution for business-critical systems.
-- Collaborated across business, development, and operational teams to translate complex financial requirements into production software.
-- Worked with Java, Spring and Spring Boot, while increasingly using Python and FastAPI for data processing, automation, research tools, and AI-related applications.
+Key contributions included:
+- Translated business requirements and changing business rules into backend processing logic and system functions.
+- Designed important modules and contributed to technical solutions, service interfaces, and cross-system integration.
+- Worked on DMA-related processing, ETF split/merger, corporate actions, dividend allocation, clearing/reconciliation, and portfolio-related services.
+- Contributed to data consistency checks and validation across financial processing stages.
+- Investigated production incidents and performance issues, participated in code reviews, and maintained business-critical services.
+- Used Java and related backend technologies as the primary work foundation, alongside personal and recent project work with Python, FastAPI, data tooling, and AI applications.
 
 ### DMA / Corporate Actions & Clearing Project
 **Backend Engineer | Jul 2020 – Dec 2022**
 
-Worked on backend development for DMA-related and financial processing functions, including:
-- Rights and bonus processing
-- ETF split / merger related processing
-- Dividend allocation
-- Clearing and reconciliation
-- Integration with trading-related services
-- Long / short portfolio-related processing
-- Pre- and post-processing controls
+Worked on backend development and important module design for DMA-related and financial processing, including rights and bonus processing, ETF split/merger, dividend allocation, clearing/reconciliation, trading-service integration, portfolio-related processing, and pre-/post-processing controls.
 
-The work involved complex financial business rules, cross-system integration, data consistency, and production reliability. Primary technology: Java and related backend technologies.
+- Developed and iterated five major versions, each driven by changes to applicable business rules and regulatory requirements.
+- Analyzed rule changes and updated corresponding processing logic and system functionality.
+- Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating business workflows into implementable backend processes.
+- Focused on data consistency, validation, cross-system integration, and production issue resolution.
+
+Primary technology: Java and related backend technologies.
 
 ### Kingstar (金仕达) — Software Engineer, Financial Trading Systems
 **Shanghai, China | Feb 2012 – Jun 2014**
@@ -110,25 +108,28 @@ Software development and maintenance for GPS and real-estate related application
 ### Financial & ETF Quantitative Research Platform
 **Python · FastAPI · MySQL · Streamlit · Financial Data**
 
-A research-oriented platform for A-share ETF and sector analysis, including ETF classification, representative ETF selection, historical data processing, watchlists, sector analysis, signal validation, and research dashboards.
+An independent research platform for A-share ETFs and sector analysis, designed to organize ETF classification, historical data, sector research, watchlists, signal validation, and dashboards into a reusable workflow.
 
-The project emphasizes reproducible research, structured data workflows, and avoiding future-data leakage.
+- Organized 948 ETFs into 14 top-level categories, 63 secondary categories, and 156 tertiary themes.
+- Built a representative ETF candidate pool using factors including fund size and liquidity.
+- Developed data-processing, watchlist, sector-analysis, signal-validation, and dashboard components.
+- Emphasized reproducible research and checks against look-ahead bias.
 
 ### AI-Powered Financial Research Platform
 **Python · FastAPI · LLM · RAG · Financial Data**
 
-An experimental platform focused on applying AI/RAG techniques to financial research, structured financial information, knowledge retrieval, and research automation.
+An independent project exploring LLM/RAG workflows for financial research, initially focusing on annual reports and other financial documents, information retrieval, and structured financial knowledge. The project remains under development and scenario validation.
 
 ### AI Product / SaaS Experiments
 **Next.js · AI APIs · GitHub**
 
-Building and validating small AI-powered product ideas, including product design, implementation, testing, deployment, and iteration.
+Building small AI-powered product prototypes with Next.js and related web technologies. Work includes requirements breakdown, MVP scope control, implementation, GitHub-based iteration, build/deployment validation, and product experimentation.
 
 ## Education
 
-- **Northeastern University of Finance and Economics (东北财经大学)** — Bachelor's Degree, Finance
-- **Shanghai Business School (上海商学院)** — Business Administration, undergraduate studies
-- **Three Gorges University (三峡大学)** — Diploma, Mechanical & Electrical Technology Applications
+- **Dongbei University of Finance and Economics (东北财经大学)** — Bachelor's Degree in Finance
+- **Shanghai Business School (上海商学院)** — Undergraduate studies in Business Administration; no degree awarded, undergraduate studies
+- **Three Gorges University (三峡大学)** — Mechanical and Electrical Technology Applications
 
 ## Certification
 
