@@ -94,20 +94,20 @@ Led backend development and important module design for financial processing and
 ### Institutional Business Online System
 **Full-Stack Engineering | Vue.js · JavaScript · Java · Spring · SQL · MySQL · REST APIs**
 
-Contributed to the development of an online institutional business system, including hands-on frontend implementation and backend service integration.
+Led the development of an online institutional business system, including hands-on frontend implementation and backend service integration.
 
 - Developed frontend pages and interactive business workflows using Vue.js and JavaScript.
 - Implemented backend features and REST APIs using Java and Spring.
 - Connected frontend interactions with backend services and data access workflows.
 - Supported integration with related internal systems, troubleshooting API and data consistency issues.
-- Participated in testing, release validation, and production issue resolution.
+- Led testing, release validation, and production issue resolution.
 
 ### Asset Management System Development
 **Backend Engineering | Java · Spring · SQL · MySQL · REST APIs**
 
-Contributed to backend development and iterative maintenance for securities asset-management-related systems.
+Led backend development and iterative maintenance for securities asset-management-related systems.
 
-- Participated in requirements analysis and backend module implementation.
+- Led requirements analysis and backend module implementation.
 - Developed business logic, data-processing functions, and service interfaces using Java and Spring.
 - Supported cross-system data exchange and investigated workflow integration issues.
 - Troubleshot SQL, API, and production issues and supported functional testing and release validation.
