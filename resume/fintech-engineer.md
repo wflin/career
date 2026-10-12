@@ -1,149 +1,103 @@
 # WANG FULIN
 
-**FinTech Software Engineer | Backend · Securities · Trading Systems**
+**Senior Software Engineer | Securities & Financial Technology | Backend Engineering**
 
 Shanghai, China · Open to International Remote / Contractor Opportunities
 
 ## Professional Summary
 
-FinTech Software Engineer with 20+ years of software development experience, including 10+ years in securities and brokerage technology. Combines strong Java/Spring backend engineering with hands-on experience in financial transaction workflows, account and position processing, corporate actions, clearing/reconciliation, API integration, and production troubleshooting.
+Senior Software Engineer with 20+ years in software development, including 10+ years in securities and financial technology. Experienced in Java/Spring backend development, key-module design, complex securities workflows, system integration, data consistency, clearing/reconciliation, and production issue resolution.
 
-Led development of key modules across DMA-related processing, PB institutional trading, asset-management workflows, and an institutional business online system. Also delivered Vue.js frontend functionality integrated with Java/Spring services. Formal finance education supports communication between business stakeholders and engineering teams.
-
-Seeking Senior Software Engineer, Senior Backend Engineer, and FinTech roles, with additional flexibility for full-stack and Python/AI-enabled financial applications.
+Led development of DMA-related financial processing, PB institutional trading controls, asset-management modules, and an institutional business online system. Also delivered Vue.js frontend functionality alongside Java/Spring backend services.
 
 ## Core Skills
 
-### Financial Technology
-- Securities and brokerage technology
-- Central trading systems
-- Margin financing systems
-- DMA-related processing
-- ETF processing
-- Corporate actions
-- Rights and bonus processing
-- Dividend allocation
-- Clearing and reconciliation
-- Portfolio-related services
-- Financial data processing
-
-### Software Engineering
-- Backend development
-- Business logic and service integration
-- REST API design and integration
-- System maintenance and production troubleshooting
-- Performance and stability analysis
-- Legacy system modernization
-- Data processing and automation
-- Git / GitHub
-
-### Technology
-- Java / Spring / Spring Boot
-- Python / FastAPI
-- SQL / MySQL
-- JavaScript / TypeScript
-- Next.js
-- REST APIs
-- LLM / RAG application development
+- **Financial systems:** Securities trading, brokerage technology, central trading, margin financing, DMA-related processing, corporate actions, ETF splits/mergers, clearing and reconciliation, investment trading, portfolio and position management
+- **Backend engineering:** Java, Spring, Spring Boot, REST APIs, key-module design, system integration, production troubleshooting, release validation
+- **Data processing:** SQL, MySQL, reconciliation, data validation, batch processing, end-of-day jobs
+- **Additional technologies:** Python, FastAPI, JavaScript, TypeScript, Vue.js, Next.js
+- **AI/data projects:** Financial-data analysis, ETF research tooling, LLM/RAG application experiments
 
 ## Professional Experience
 
 ### East Money Securities — Senior Software Engineer (Backend & Full-Stack)
 **Shanghai, China | Mar 2016 – May 2026**
 
-Led backend development, important module design, and technical solutions for securities applications and business services. Also built the Vue.js frontend for an institutional business online system, connecting user workflows with Java/Spring backend services and internal systems.
+Led development and iterative delivery of securities-related systems, including backend services, key-module design, system integration, and production support. Personally developed Vue.js frontend features and Java/Spring backend functionality for an institutional business online system.
 
-Key contributions:
-- Translated business rules and regulatory/business-rule changes into backend processing logic and system functions.
-- Designed important modules and contributed to technical solutions, service interfaces, and cross-system integration.
-- Worked on DMA-related processing and complex corporate actions, including cash dividends, rights issues, conversion, bonus shares, and ETF splits/mergers.
-- Supported processing between funding accounts and DMA contract accounts, including end-of-day reconciliation of cash balances and securities positions between DMA contract accounts and centralized trading funding accounts.
-- Investigated reconciliation discrepancies and worked on corporate-action effective dates, processing sequence, duplicate/abnormal data validation, cross-system interface issues, and follow-up processing.
-- Participated in SQL/batch-processing and end-of-day job performance troubleshooting, release validation, production issue resolution, and business/technical integration testing.
-- Investigated production issues and performance problems, participated in code reviews, and maintained business-critical services.
+- Translated evolving securities-business rules into backend workflows and system functionality.
+- Designed key modules and technical solutions; handled APIs, cross-system integration, and data consistency.
+- Worked on DMA processing, corporate actions, ETF operations, clearing/reconciliation, and investment/portfolio workflows.
+- Investigated reconciliation discrepancies, abnormal data, interface exceptions, SQL/batch performance, and production incidents.
+- Led functional iterations, integration testing, release validation, and issue resolution.
 
 ### DMA / Corporate Actions & Clearing Project
-**Backend Engineer | Jul 2020 – May 2025**
+**Project Lead / Backend Engineering | Jul 2020 – May 2025**
 
-Led backend implementation and important module design for DMA-related and financial processing functions.
+Led backend development and key-module design for DMA-related processing, including corporate actions, ETF splits/mergers, dividend allocation, clearing/reconciliation, portfolio-related processing, and trading-service integration.
 
-- Led development and iteration of five major versions, adapting processing logic as business rules and applicable regulatory requirements changed.
-- Analyzed rule changes, assessed impact, and updated related system functionality.
-- Worked in an evolving business environment where mature, directly reusable system patterns were limited, translating complex account flows into implementable backend processes.
-- Supported rapid growth in DMA business and system usage from early 2022 through ongoing functional iterations and operational issue resolution.
-- Worked on cash dividends, rights issues, conversion and bonus-share processing, ETF splits/mergers, clearing/reconciliation, portfolio-related processing, and trading-service integration.
-- Reconciled end-of-day cash and securities positions between DMA contract accounts and centralized trading funding accounts, investigating discrepancies and supporting follow-up processing.
-- Led data consistency checks and pre-/post-processing validation.
-- Used Java as the primary implementation technology.
+- Led **five major versions** of development and iteration as business rules evolved.
+- Converted complex account relationships and business rules into backend processing logic.
+- Led processing for cash dividends, rights issues, conversion, bonus shares, and ETF splits/mergers.
+- Handled funding-account-to-DMA-contract-account processing and end-of-day reconciliation of cash and securities positions between DMA contract accounts and centralized trading funding accounts; investigated discrepancies.
+- Addressed effective business dates, processing sequence, duplicate/abnormal data, cross-system interface exceptions and recovery, SQL/batch performance, testing, release validation, and production issues.
+
+**Primary technology:** Java and related backend technologies.
 
 ### PB Institutional Trading System
-**Backend Engineer | Pre-trade Validation & Post-trade Monitoring · Java · Spring · SQL · MySQL · REST APIs**
+**Project Lead / Backend Engineering | Pre-trade & Post-trade Controls**
 
-Led backend development of PB institutional-trading controls covering pre-trade order validation and post-trade exposure monitoring.
+Led development of backend modules for pre-trade and post-trade controls in an institutional PB trading system.
 
-- Implemented checks around order constraints, eligible securities, available cash/buying power, and account or position limits.
-- Implemented monitoring for positions, security/industry exposure, loss thresholds, and risk-limit breaches.
-- Converted account, product, order, execution, and position relationships into backend validation and monitoring logic.
-- Integrated with trading gateways and internal systems; handled data checks, SQL troubleshooting, testing, release validation, and production issue resolution.
-### Asset Management System Development
-**Backend Engineer | Investment Trading, Portfolio & Position Management · Java · Spring · SQL · MySQL**
+- Translated institutional trading rules into backend validation and monitoring workflows.
+- Worked across account, order, execution, and position-related data and internal system interfaces.
+- Led module development, integration, testing, release validation, and production issue investigation.
 
-Led backend development of asset-management modules centered on investment trading, portfolio management, and position management.
+**Primary technology:** Java, Spring, SQL, MySQL, REST APIs.
 
-- Led requirements analysis, technical design, and implementation of investment-trading and portfolio workflows.
-- Developed backend business logic and data-processing services for investment transactions, portfolio information, and position records.
-- Handled business-data validation and cross-system integration, investigating data consistency issues across trading, portfolio, and position data.
-- Led SQL and production troubleshooting, integration testing, release validation, and iterative enhancements.
+### Asset Management System
+**Project Lead / Backend Engineering | Investment Trading, Portfolio & Position Management**
+
+Led development and iterative enhancement of modules supporting investment trading, portfolio management, and position management.
+
+- Led requirements analysis, technical design, and backend implementation.
+- Developed business logic, data processing, and service APIs for investment transactions, portfolio information, and position data.
+- Addressed data validation, cross-system integration, SQL troubleshooting, testing, and release validation.
 
 ### Institutional Business Online System
-**Full-Stack Engineer | Java · Spring · Vue.js · JavaScript · SQL · MySQL · REST APIs**
+**Project Lead / Full-Stack Engineering | Vue.js · Java · Spring · SQL · MySQL**
 
-Led institutional business online services through frontend and backend development, helping translate business workflows into online application functions.
+Led delivery of an online institutional business system, including hands-on frontend and backend development.
 
-- Developed frontend pages and interactive workflows with Vue.js and JavaScript.
-- Implemented backend business modules and REST APIs using Java and Spring.
-- Connected frontend workflows with backend services and supported data access through MySQL.
-- Integrated application functions with related internal systems and investigated interface or data-consistency issues.
-- Led integration testing, release validation, and production troubleshooting.
+- Developed frontend pages and interactive workflows using Vue.js and JavaScript.
+- Developed Java/Spring backend modules and REST APIs.
+- Led frontend/backend integration, workflow and data validation, testing, release validation, and production issue resolution.
 
 ### Kingstar (金仕达) — Software Engineer, Financial Trading Systems
-**Shanghai, China | Feb 2012 – Jun 2014**
+**Feb 2012 – Jun 2014**
 
-Worked on financial trading-related software and backend systems.
+Worked on financial trading software, including central trading and margin financing systems, backend development, integration, and maintenance.
 
-- Participated in central trading system development and maintenance.
-- Worked on margin financing system functionality.
-- Implemented financial business processing.
-- Supported backend development and system maintenance.
-- Worked across business requirements and technical implementation.
+### Earlier Software Development
+**2005 – 2012 | GPS / Real Estate Applications and ERP Systems**
 
-### Enterprise / ERP Software Development
-**Shanghai, China | 2008 – 2012**
+Developed and maintained GPS/real-estate applications and enterprise/ERP software.
 
-Participated in enterprise software development and maintenance, including ERP-related applications and business systems.
-
-### GPS / Real Estate Software
-**Yichang, China | Jul 2005 – Feb 2008**
-
-Participated in software development and maintenance for GPS and real-estate related applications.
-
-## Selected Projects
-
+## Selected Data / AI Project
 
 ### Financial & ETF Quantitative Research Platform
 **Python · FastAPI · MySQL · Streamlit**
 
-Independent research platform for A-share ETF and sector analysis.
+Independent A-share ETF and sector research platform covering ETF classification, historical data, watchlists, sector analysis, signal validation, and dashboards.
 
 - Organized 948 ETFs into 14 top-level categories, 63 secondary categories, and 156 tertiary themes.
-- Built a representative ETF candidate pool using factors including fund size and liquidity.
-- Developed historical data processing, watchlists, sector analysis, signal validation, and dashboard workflows.
-- Emphasized reproducible research and checks against look-ahead bias.
+- Built a representative ETF candidate pool using fund size and liquidity factors.
+- Developed research workflows with attention to reproducibility and look-ahead-bias checks.
 
 ### AI-Powered Financial Research Platform
 **Python · FastAPI · LLM · RAG**
 
-Independent project exploring LLM/RAG applications for financial research, initially focusing on annual reports and other financial documents, information retrieval, and structured financial knowledge. The project remains under development and scenario validation.
+Independent project exploring financial-document retrieval and AI-assisted research; currently under development and scenario validation.
 
 ## Education
 
@@ -157,12 +111,6 @@ Independent project exploring LLM/RAG applications for financial research, initi
 
 ## Target Opportunities
 
-- Senior FinTech Software Engineer
-- Senior Backend Engineer
-- Financial Software / Trading Systems Engineer
-- Brokerage Technology Engineer
-- Senior Software Engineer
-- Python / Financial Data Engineer
-- AI Application Engineer for FinTech
+Senior Software Engineer · FinTech Software Engineer · Financial Backend Engineer · Securities Trading Systems Engineer · Backend Engineer
 
-**Preferred engagement:** International remote · Remote contractor · Part-time / project-based · Full-time remote
+**Preferred engagement:** International remote · Remote contractor · Full-time remote
