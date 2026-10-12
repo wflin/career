@@ -128,7 +128,7 @@ Building small AI-powered product prototypes with Next.js and related web techno
 ## Education
 
 - **Dongbei University of Finance and Economics (东北财经大学)** — Bachelor's Degree in Finance
-- **Shanghai Business School (上海商学院)** — Undergraduate studies in Business Administration; no degree awarded, undergraduate studies
+- **Shanghai Business School (上海商学院)** — Undergraduate studies in Business Administration; no degree awarded
 - **Three Gorges University (三峡大学)** — Mechanical and Electrical Technology Applications
 
 ## Certification
