@@ -16,6 +16,7 @@ Targeting Senior Software Engineer and Senior Backend Engineer roles, with addit
 
 - **Backend & engineering:** Java, Spring, Spring Boot, REST APIs, module design, system integration, production troubleshooting, performance analysis, data processing
 - **Data:** SQL, MySQL, reconciliation, data validation, batch processing
+- **Middleware & distributed systems:** Kafka (message/event streaming), Redis (caching and data structures), distributed-system fundamentals, consistency, idempotency, retries and recovery; Raft consensus concepts
 - **Python & AI projects:** Python, FastAPI, financial-data tooling, LLM/RAG application experiments, AI-assisted development
 - **Frontend:** JavaScript, TypeScript, Vue.js, Next.js
 - **Domain:** Securities trading, brokerage systems, margin financing, DMA-related processing, corporate actions, ETF splits/mergers, clearing and reconciliation, investment trading, portfolio and position management
