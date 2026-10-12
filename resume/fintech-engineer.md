@@ -77,7 +77,7 @@ Led backend implementation and important module design for DMA-related and finan
 - Supported rapid growth in DMA business and system usage from early 2022 through ongoing functional iterations and operational issue resolution.
 - Worked on cash dividends, rights issues, conversion and bonus-share processing, ETF splits/mergers, clearing/reconciliation, portfolio-related processing, and trading-service integration.
 - Reconciled end-of-day cash and securities positions between DMA contract accounts and centralized trading funding accounts, investigating discrepancies and supporting follow-up processing.
-- Contributed to data consistency checks and pre-/post-processing validation.
+- Led data consistency checks and pre-/post-processing validation.
 - Used Java as the primary implementation technology.
 
 ### Asset Management System Development
