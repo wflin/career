@@ -1,5 +1,7 @@
 # WANG FULIN
 
+Email: 303137305@qq.com
+
 **Senior Software Engineer | Securities & Financial Technology | Backend Engineering**
 
 Shanghai, China · Open to International Remote / Contractor Opportunities
