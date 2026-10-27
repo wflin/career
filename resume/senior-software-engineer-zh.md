@@ -1,4 +1,6 @@
-# 王福林（Fulin Wang）
+# 王福林（WANG FULIN）
+
+邮箱：303137305@qq.com
 
 **高级软件工程师｜后端开发 · 金融科技 · Python · AI**
 
